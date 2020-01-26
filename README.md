@@ -1,4 +1,4 @@
-# *Data Is Present*
+# *Data Is Present* 2020-2021 Workshops and Hackathons
 
 ## Enhanced Presentation of Data through Reproducible Reports and Data Dashboards
 

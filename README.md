@@ -8,7 +8,7 @@ Enabled by a [fellowship of the Software Sustainability Institute](https://www.s
 
 ## Open Access Data
 
-Data is increasingly a public good. Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., Creative Commons, the UK Open Government Licence, etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
+Data is increasingly a public good. Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
 
 ## Open Source Software
 

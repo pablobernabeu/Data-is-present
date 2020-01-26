@@ -4,7 +4,7 @@
 
 Scientific articles are including more and more supplementary materials, ever more advanced. This has been facilitated by burgeoning technologies and available training. Another contributing factor was the replication crisis in psychology. As a result, researchers now customarily examine the data and code for studies. Standard materials such as data sets and code scripts could be referred to as Version 1.0 of open data and reproducibility. Excitingly, software developers and contributors have brought us Version 2.0 already!
 
-Enabled by a [fellowship of the Software Sustainability Institute.](https://www.software.ac.uk/about/fellows/pablo-bernabeu), this open scholarship project aims to facilitate the presentation of open-access, academic/non-academic data. The best tool for this purpose is open-source software, such as R or Python.
+Enabled by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/about/fellows/pablo-bernabeu), this open scholarship project aims to facilitate the presentation of open-access, academic/non-academic data. The best tool for this purpose is open-source software, such as R or Python.
 
 ## Open Access Data
 
@@ -45,7 +45,7 @@ These hackathons are half day meetings meetings in which participants will colla
 **Essential:** Basic knowledge of dashboard development.
 **Encouraged:** Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
-- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, national governments, international institutions, NGOs, etc.
+- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, national governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are enouraged. That is, if you'd like to have a data dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
 
 - **Purpose**: Extend the original presentation of the data. This may include the linking to additional data, new visualisations, etc.
 

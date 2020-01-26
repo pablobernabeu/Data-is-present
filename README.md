@@ -24,9 +24,9 @@ These are participatory, practical workshops that draw on multi-levelled example
 
 Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools--R Markdown, data dashboards, and Binder environments--are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
-**Essential:** R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
+*Essential:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 
-**Encouraged:** Familiarity with the relevant links herein; your own data and R code on Github. 
+*Encouraged:* Familiarity with the relevant links herein; your own data and R code on Github. 
 
 1. **Introduction to R**
 
@@ -43,9 +43,9 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 These hackathons are half day meetings meetings in which participants will collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
 
-**Essential:** Basic knowledge of dashboard development.
+*Essential:* Basic knowledge of dashboard development.
 
-**Encouraged:** Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
+*Encouraged:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
 - **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, national governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are enouraged. That is, if you'd like to have a data dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
 

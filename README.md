@@ -12,7 +12,7 @@ Data is increasingly a public good. Academics and non-academic researchers (scie
 
 ## Open Source Software
 
-Programs such as R and Python offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive sectors of the job market.
+Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive sectors of the job market.
 
 ## Activities
 

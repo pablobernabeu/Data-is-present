@@ -51,3 +51,4 @@ These hackathons are half day meetings meetings in which participants will colla
 
 - **Output**: The various output (e.g., data dashboards) will be (co-)authored by the participants who develop it. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by anyone else. For this purpose, participants are encouraged to publish their code on **open access**, for instance on Github.
 
+![](https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif)

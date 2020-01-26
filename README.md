@@ -25,13 +25,13 @@ These are participatory, practical workshops that draw on multi-levelled example
 Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools--R Markdown, data dashboards, and Binder environments--are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
 **Essential:** R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
-**Encouraged:** Data and R code on Github. 
+**Encouraged:** Familiarity with the relevant links herein; your own data and R code on Github. 
 
 1. **Introduction to R**
 
-2. **R Markdown reports** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards. 
+2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards. 
 
-3. **Online data dashboards (introduction)** —  The better part of this workshop covers a further step in open data: web applications used to visualise data in detail through tables and plots. These all-reproducible applications are published as websites, and therefore, can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards (Flexdashboard and Shiny), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
+3. **Online data dashboards (introduction)** —  The better part of this workshop covers a further step in open data: web applications used to visualise data in detail through tables and plots. These all-reproducible applications are published as websites, and therefore, can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
 
 4. **Online data dashboards (intermediate)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)).
 
@@ -43,7 +43,7 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 These hackathons are half day meetings meetings in which participants will collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
 
 **Essential:** Basic knowledge of dashboard development.
-**Encouraged:** An idea about the data and analyses to be performed.
+**Encouraged:** Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
 - **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, national governments, international institutions, NGOs, etc.
 

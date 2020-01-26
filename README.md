@@ -1,6 +1,6 @@
 # *Data Is Present*
 
-**Enhanced Presentation of Data through Reproducible Reports and Data Dashboards**
+## Enhanced Presentation of Data through Reproducible Reports and Data Dashboards
 
 Scientific articles are including more and more supplementary materials, ever more advanced. This has been facilitated by burgeoning technologies and available training. Another contributing factor was the replication crisis in psychology. As a result, researchers now customarily examine the data and code for studies. Standard materials such as data sets and code scripts could be referred to as Version 1.0 of open data and reproducibility. Excitingly, software developers and contributors have brought us Version 2.0 already!
 

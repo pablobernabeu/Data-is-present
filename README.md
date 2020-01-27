@@ -16,7 +16,7 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-The **ultimate activities of this project are open data hackathons**. To facilitate access to this activity, introductory and intermediate workshops in R will be available for free. All activities will carried out in various cities of the UK.
+The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in R will be available for free. All activities will carried out in various cities of the UK.
 
 ### R Workshops
 

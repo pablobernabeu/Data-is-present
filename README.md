@@ -1,6 +1,6 @@
 # *Data Is Present!* Open Workshops and Hackathons
 
-## Enhanced Presentation of Data Using Reproducible Reports and Data Dashboards
+## Enhanced Presentation of Data Using Reproducible Reports and Dashboards
 
 Original data has become more accessible thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), and non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)). Often, these data may be presented in novel ways, by creating new tables or plots, or by integrating additional data. Free, open-source software has become a great companion for open data.
 
@@ -46,7 +46,7 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 <p align = 'center'> <img align = 'middle' width = '70%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' /> </p>
 
-4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a data dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
+4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
 
 <p align = 'center'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </p>
 
@@ -59,10 +59,10 @@ These hackathons are half day meetings meetings in which participants will colla
 
 *Recommended preparation:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
-- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a data dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
+- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
 
 - **Purpose**: Extend the original presentation of the data. This may include the linking to additional data, new visualisations, etc.
 
-- **Output**: The various output (e.g., data dashboards) will be (co-)authored by the participants who develop it. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by anyone else. For this purpose, participants are encouraged to publish their code on **open access**, for instance on Github.
+- **Output**: The various output (e.g., dashboards) will be (co-)authored by the participants who develop it. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by anyone else. For this purpose, participants are encouraged to publish their code on **open access**, for instance on Github.
 
 <br>

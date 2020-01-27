@@ -34,11 +34,11 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 3. **Introduction to data dashboards** —  Web applications can be used to visualise data in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
 
-
+<img align = 'center' width = '70%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' />
 
 4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a data dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
 
-![](https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif)
+<img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' />
 
 
 ### Hackathons

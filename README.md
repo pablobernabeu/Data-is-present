@@ -63,6 +63,6 @@ These hackathons are half day meetings meetings in which participants will colla
 
 - **Purpose**: Extend the original presentation of the data. This may include the linking to additional data, new visualisations, etc.
 
-- **Output**: The various outputs (e.g., dashboards) will be (co-)authored by the participants who develop them. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by anyone else. For this purpose, participants are encouraged to publish their code on **open access**, for instance on Github.
+- **Output**: A central goal of these meet-ups is the creation of output--especially reports and dashboards. These will be (co-)authored by the participants who develop them. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or other people, if the code is openly shared (highly encouraged). Just like with the data that was put in, a citation-based licence can be attached to this code.
 
 <br>

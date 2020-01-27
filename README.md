@@ -1,10 +1,10 @@
-# *Data Is Present:* Workshops and Hackathons 2020-2021
+# *Data Is Present!* Open Workshops and Hackathons
 
-## Enhanced Presentation of Data through Reproducible Reports and Data Dashboards
+## Enhanced Presentation of Data Using Reproducible Reports and Data Dashboards
 
-Scientific articles are including more and more supplementary materials, ever more advanced. This has been facilitated by burgeoning technologies and available training. Another contributing factor was the replication crisis in psychology. As a result, researchers now customarily examine the data and code for studies. Standard materials such as data sets and code scripts could be referred to as Version 1.0 of open data and reproducibility. Excitingly, software developers and contributors have brought us Version 2.0 already!
+Original data has become more accessible thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/) or UK ([1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/))), and non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)). Often, these data may be presented in novel ways, by creating new tables or plots, or by integrating additional data. Open-source software such as R or Python has become central to this purpose.
 
-Enabled by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/about/fellows/pablo-bernabeu), this open scholarship project aims to facilitate the presentation of open-access, academic/non-academic data. The best tool for this purpose is open-source software, such as R or Python.
+This project offers free workshops and coding meet-ups to learn and practise data presentation, across the UK. It is enabled by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
 ## Open Access Data
 
@@ -34,7 +34,11 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 3. **Introduction to data dashboards** —  Web applications can be used to visualise data in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
 
-4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Use [Binder environments](https://mybinder.org/) to enable public access to your data and code in RStudio directly on the Internet, or to host your data dashboards. We'll work through the [nuts and bolts of each option](https://github.com/binder-examples/r). Attendees may deploy their environments and check on them by the end of the session.
+
+
+4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a data dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
+
+![](https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif)
 
 
 ### Hackathons
@@ -52,5 +56,3 @@ These hackathons are half day meetings meetings in which participants will colla
 - **Output**: The various output (e.g., data dashboards) will be (co-)authored by the participants who develop it. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by anyone else. For this purpose, participants are encouraged to publish their code on **open access**, for instance on Github.
 
 <br>
-
-![](https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif)

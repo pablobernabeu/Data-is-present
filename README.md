@@ -22,7 +22,7 @@ The **ultimate activities of this project are open data hackathons**. To facilit
 
 Four participatory, practical workshops drawing on multi-levelled, real examples will be offered. Common challenges will be flagged, and further resources provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available.
 
-Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools--R Markdown, data dashboards, and Binder environments--are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
+Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 

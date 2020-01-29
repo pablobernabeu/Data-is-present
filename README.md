@@ -61,6 +61,6 @@ These hackathons are half day meetings meetings in which participants will colla
 
 - **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
 
-- **Purpose**: Extending the original presentation of the data--if any--by creating tables and plots, integrating additional data, etc.
+- **Purpose**: Extending the original presentation of the data—if any—by creating tables and plots, integrating additional data, etc.
 
-- **Output**: A central goal of these meet-ups is the creation of output--especially reports and dashboards. These will be (co-)authored by the participants who develop them. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or other people, if the code is openly shared (highly encouraged). Just like with the data that is used, a citation-based licence can be attached to this code.
+- **Output**: A central goal of these meet-ups is the creation of output—especially reports and dashboards. These will be (co-)authored by the participants who develop them. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or other people, if the code is openly shared (highly encouraged). Just like with the data that is used, a citation-based licence can be attached to this code.

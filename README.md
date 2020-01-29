@@ -16,13 +16,15 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-The **ultimate activities of this project are open data hackathons**. To facilitate access to these, introductory and intermediate workshops in [R](https://www.r-project.org) will be offered for free. The reason for choosing R is that it has great resources for all things data, and specifically for creating reproducible reports and dashboards. All activities will be carried out in various cities of the UK.
+With reproducible reports and dashboards in the centre, this project includes training and practice sessions throughout 2020 and into the first quarter of 2021. The training will be useful on its own, and will also pave the way to joining the practice sessions. All activities are available across the UK.
 
 ### R workshops
 
-Four participatory, practical workshops in [R](https://www.r-project.org) will be offered, specifically using [RStudio](https://rstudio.com/). Common challenges will be flagged based on multi-levelled, real examples, and resources for further practice will be provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. Likewise, the duration of each workshop is adaptable to each case, and different workshops can be combined into the one session.
+Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great resources for all things data, and specifically for creating reproducible reports and dashboards.
 
-Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
+These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
+
+In each session, common challenges will be flagged based on multi-levelled, real examples, and resources for further practice will be provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. To fully cater to the possibilities of different audiences, different workshops can be combined into the one session, and the duration can also be tailored.
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 

@@ -1,4 +1,4 @@
-# *Data Is Present:* open workshops and hackathons
+# *Data is present:* open workshops and hackathons
 
 ### Enhanced presentation of open data using reproducible reports and dashboards
 

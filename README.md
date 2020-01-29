@@ -16,29 +16,29 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in R will be available for free. All activities will be carried out in various cities of the UK.
+The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in [R](https://www.r-project.org) will be offered for free. The reason for choosing R is that it has great resources for all things data, and for creating reproducible reports and dashboards. All activities will be carried out in various cities of the UK.
 
 ### R workshops
 
-Four participatory, practical workshops drawing on multi-levelled, real examples will be offered. Common challenges will be flagged, and further resources provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. Likewise, the duration of each workshop is adaptable to each case, and different workshops can be combined into the one session.
+Four participatory, practical workshops in [R](https://www.r-project.org) will be offered, specifically using [RStudio](https://rstudio.com/). Common challenges will be flagged based on multi-levelled, real examples, and resources for further practice will be provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. Likewise, the duration of each workshop is adaptable to each case, and different workshops can be combined into the one session.
 
-Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science.
+Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 
 *Recommended preparation:* Familiarity with the relevant links herein; your own data and R code on Github. 
 
-1. **Introduction to R:** 
+1. **Introduction to R:**
 
-- Object-oriented programming
-- Data structures
-- Loading and writing data, in native and foreign formats
-- Packages: field-specific examples and [tidyverse](https://www.tidyverse.org/)
-- Functions
-- Debugging
-- Vast availability of free resources on the internet (e.g., from [RStudio](), [Glasgow University](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944))
-- Community ([RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc.): using and contributing
-- [RStudio Cloud](https://rstudio.cloud/)
+- Object-oriented programming;
+- Data structures;
+- Loading and writing data, in native and foreign formats;
+- Packages: field-specific examples and [tidyverse](https://www.tidyverse.org/);
+- Functions;
+- Debugging;
+- Vast availability of free resources on the internet (e.g., from [RStudio](), [Glasgow University](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
+- Community ([RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc.): using and contributing;
+- [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
 
 2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards. 
 

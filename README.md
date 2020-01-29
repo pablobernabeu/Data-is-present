@@ -2,13 +2,11 @@
 
 ### Enhanced presentation of open data using reproducible reports and dashboards
 
-Original data is increasingly accessible thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Often, these data may be presented in novel ways, by creating new tables or plots, or by integrating additional data. Free, open-source software has become a great companion for this purpose.
-
 This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation, across the UK. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
-## Open access data
+## Open data
 
-Research data is increasingly treated as a [public good](https://www.nature.com/articles/d41586-019-01506-x). Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
+Original data is increasingly accessible thanks to cultural and technological advances; in many research areas, data is a [public good](https://www.nature.com/articles/d41586-019-01506-x). On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, create any (additional) visualisations and analyses they like, and share these.
 
 ## Open source software
 
@@ -16,7 +14,7 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-With reproducible reports and dashboards in the centre, this project includes training and practice sessions throughout 2020 and into the first quarter of 2021. The training will be useful on its own, and will also pave the way to joining the practice sessions. All activities are available across the UK.
+Centred on reproducible reports and dashboards, this project delivers training and practice sessions throughout 2020 and into the first quarter of 2021. The training is useful on its own, and also paves the way to the practice sessions. All activities are available across the UK.
 
 ### R workshops
 
@@ -24,7 +22,7 @@ Four participatory, practical workshops in [R](https://www.r-project.org) are on
 
 These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
-In each session, common challenges will be flagged based on multi-levelled, real examples, and resources for further practice will be provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. To fully cater to the possibilities of different audiences, different workshops can be combined into the one session, and the duration can also be tailored.
+In each session, common challenges are flagged based on multi-levelled, real examples, and resources for further practice are provided. Every workshop has a taught part and a hands-on part. The level of the taught content are largely tailored to the audience, and the hands-on part are individually adaptable thanks to easier and tougher tasks available. To fully cater to the possibilities of different audiences, different workshops can be combined into the one session, and the duration can also be tailored.
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 

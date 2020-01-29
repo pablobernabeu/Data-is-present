@@ -8,7 +8,7 @@ This open scholarship project offers free workshops and coding meet-ups (hackath
 
 ## Open access data
 
-Data is increasingly regarded as a [public good](https://www.nature.com/articles/d41586-019-01506-x). Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
+Research data is increasingly treated as a [public good](https://www.nature.com/articles/d41586-019-01506-x). Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
 
 ## Open source software
 

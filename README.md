@@ -1,28 +1,28 @@
-# *Data Is Present:* Open Workshops and Hackathons
+# *Data Is Present:* open workshops and hackathons
 
-## Enhanced Presentation of Data Using Reproducible Reports and Dashboards
+### Enhanced presentation of open data using reproducible reports and dashboards
 
 Original data has become more accessible thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), and non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)). Often, these data may be presented in novel ways, by creating new tables or plots, or by integrating additional data. Free, open-source software has become a great companion for open data.
 
-This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation, across the UK. It is made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
+This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation, across the UK. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
-## Open Access Data
+## Open access data
 
-Data is increasingly a public good. Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
+Data is increasingly a [public good](https://www.nature.com/articles/d41586-019-01506-x). Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, perform the visualisations and analyses they like, and share these.
 
-## Open Source Software
+## Open source software
 
 Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive sectors of the job market.
 
 ## Activities
 
-The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in R will be available for free. All activities will carried out in various cities of the UK.
+The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in R will be available for free. All activities will be carried out in various cities of the UK.
 
-### R Workshops
+### R workshops
 
-Four participatory, practical workshops drawing on multi-levelled, real examples will be offered. Common challenges will be flagged, and further resources provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available.
+Four participatory, practical workshops drawing on multi-levelled, real examples will be offered. Common challenges will be flagged, and further resources provided. Every workshop will have a taught part and a hands-on part. The level of the taught content will be largely tailored to the audience, and the hands-on part will be individually adaptable thanks to easier and tougher tasks available. Likewise, the duration of each workshop is adaptable to each case, and different workshops can be combined into the one session.
 
-Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
+Participants will acquire or hone experience with a suite of interrelated tools based on Docker and R. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science.
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 
@@ -42,7 +42,7 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards. 
 
-3. **Introduction to data dashboards** —  Web applications can be used to visualise data in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
+3. **Introduction to data dashboards** —  [Web applications can be used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
 
 <p align = 'center'> <img align = 'middle' width = '70%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' /> </p>
 

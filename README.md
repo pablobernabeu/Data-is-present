@@ -10,7 +10,7 @@ Original data is increasingly accessible thanks to cultural and technological ad
 
 ## Open source software
 
-Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive sectors of the job market.
+Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
 ## Activities
 

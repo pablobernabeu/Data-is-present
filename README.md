@@ -20,7 +20,7 @@ With reproducible reports and dashboards in the centre, this project includes tr
 
 ### R workshops
 
-Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great resources for all things data, and specifically for creating reproducible reports and dashboards.
+Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great packages for creating reproducible reports and dashboards.
 
 These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 

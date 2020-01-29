@@ -16,7 +16,7 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-The **ultimate activities of this project are open data hackathons**. To facilitate access to the hackathons, introductory and intermediate workshops in [R](https://www.r-project.org) will be offered for free. The reason for choosing R is that it has great resources for all things data, and for creating reproducible reports and dashboards. All activities will be carried out in various cities of the UK.
+The **ultimate activities of this project are open data hackathons**. To facilitate access to these, introductory and intermediate workshops in [R](https://www.r-project.org) will be offered for free. The reason for choosing R is that it has great resources for all things data, and for creating reproducible reports and dashboards. All activities will be carried out in various cities of the UK.
 
 ### R workshops
 

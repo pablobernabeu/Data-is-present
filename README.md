@@ -26,7 +26,7 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 
-*Recommended preparation:* Familiarity with the relevant links herein; your own data and R code on Github. 
+*Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository for Workshop 4).
 
 1. **Introduction to R:**
 
@@ -46,7 +46,7 @@ Participants will acquire or hone experience with a suite of interrelated tools 
 
 <p align = 'center'> <img align = 'middle' width = '70%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' /> </p>
 
-4. **Intermediate data dashboards and Binder environments (Docker images)** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
+4. **Intermediate data dashboards and Binder environments** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a dashboard on the internet. This is free [just for us](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426)). We'll look at the [nuts and bolts of all this](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
 
 <p align = 'center'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </p>
 

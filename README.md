@@ -53,7 +53,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 
 ### Hackathons
 
-These hackathons are half day meetings meetings in which participants will collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
+These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development.
 
@@ -61,6 +61,6 @@ These hackathons are half day meetings meetings in which participants will colla
 
 - **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
 
-- **Purpose**: Extending the original presentation of the data—if any—by creating tables and plots, integrating additional data, etc.
+- **Purpose**: Visualising the data in new ways using reproducible reports or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
-- **Output**: A central goal of these meet-ups is the creation of output—especially reports and dashboards. These will be (co-)authored by the participants who develop them, who can then publish them on their own websites, or on [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
+- **Output**: A central goal of these meet-ups is the creation of output. Reports and dashboards are (co-)authored by the participants who develop them, who can then publish them on their own websites, [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.

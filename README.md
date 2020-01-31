@@ -1,6 +1,6 @@
 # *Data is present:* open workshops and hackathons
 
-### Enhanced presentation of open data using reproducible reports and dashboards
+## Enhanced presentation of open data using reproducible reports and dashboards
 
 This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation, across the UK. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
@@ -51,7 +51,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 <p align = 'center'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </p>
 
 
-### Hackathons
+### Hackathons: creating reproducible reports and dashboards
 
 These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
 

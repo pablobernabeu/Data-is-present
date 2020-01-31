@@ -36,7 +36,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Packages: general-purpose (e.g., [tidyverse](https://www.tidyverse.org/)) and field-specific examples;
 - Functions;
 - Debugging;
-- Vast availability of free resources on the internet (e.g., from [RStudio](), [Glasgow University](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
+- Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
 - Community ([RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc.): using and contributing;
 - [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
 

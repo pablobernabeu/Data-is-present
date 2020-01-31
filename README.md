@@ -55,7 +55,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 
 ### Hackathons: creating reproducible reports and dashboards
 
-These hackathons are coding meet-ups in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open access data they choose.
+These hackathons are coding meet-ups in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development.
 

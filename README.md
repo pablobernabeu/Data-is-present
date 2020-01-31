@@ -60,7 +60,7 @@ These hackathons are half-day meetings meetings in which participants collaborat
 
 *Recommended preparation:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
-- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a dashboard created for a certain, open-access data set, let us know, and the participants may want to take it on.
+- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible report or dashboard created for a certain, open-access data set, please let us know, and some hackathon participants may take it on.
 
 - **Purpose**: Visualising the data in new ways using reproducible reports or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 

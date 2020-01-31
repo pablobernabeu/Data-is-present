@@ -1,6 +1,6 @@
 # *Data is present:* open workshops and hackathons
 
-## Enhanced presentation of open data using reproducible documents and dashboards
+## Enhanced data presentation using reproducible documents and dashboards
 
 This open scholarship project offers free workshops and coding meet-ups to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 

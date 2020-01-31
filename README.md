@@ -39,7 +39,9 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Community ([RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc.): using and contributing;
 - [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
 
-2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards. 
+2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards.
+
+<p align = 'center'> <img align = 'middle' width = '40%' src = 'https://d33wubrfki0l68.cloudfront.net/f13f4910cbc96c2be62317c712bbba45b2a0ad98/8d63a/galleryimages/html.png' /> </p>
 
 3. **Introduction to data dashboards** —  [Web applications can be used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to look at different forms of dashboards ([Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)), and the suitable platforms for online hosting (personal websites and RPubs, Binder, Shinyapps, and custom servers). A great thing: dashboards may be made very simple, but they also offer the possibility of infinite improvement by drawing on HTML, CSS, and Javascript.
 
@@ -47,12 +49,12 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 
 4. **Intermediate data dashboards and Binder environments** —  More advanced practice with each of the hosting possibilities (e.g., [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Flexdashboard Shiny](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table), [Shiny](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment/)). Furthermore, we will learn how to use [Binder environments](https://mybinder.org/) to enhance public access to our code (e.g., by publishing an RStudio session on the internet), and to host a dashboard on the internet. This is generously free [for the users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). We'll look at the [nuts and bolts of a Binder deployment](https://github.com/binder-examples/r). Attendees may deploy their own Binder environments.
 
-<p align = 'center'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </p>
+<p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </a> </p>
 
 
 ## Hackathons: creating reproducible reports and dashboards
 
-These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
+These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open access data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development.
 

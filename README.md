@@ -2,7 +2,9 @@
 
 ## Enhanced presentation of open data using reproducible reports and dashboards
 
-This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu). Below, a background on open data and software is provided, before a description of the activities.
+This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
+
+### Background
 
 #### Open data
 
@@ -12,7 +14,9 @@ Original data has become a [public good in many research fields](https://www.nat
 
 Open-source programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
-## R workshops
+## Activities
+
+### R workshops
 
 Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great packages for creating reproducible reports and dashboards.
 
@@ -49,7 +53,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 <p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </a> </p>
 
 
-## Hackathons: creating reproducible reports and dashboards
+### Hackathons: creating reproducible reports and dashboards
 
 These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open access data they choose.
 

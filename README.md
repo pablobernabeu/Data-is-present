@@ -10,7 +10,7 @@ Original data has become a [public good in many research fields](https://www.nat
 
 ### Open source software
 
-Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive disciplines.
+Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
 
 Centred on reproducible reports and dashboards, this project delivers training and practice sessions throughout 2020 and into the first quarter of 2021. The training is useful on its own, and also paves the way to the practice sessions. All activities are available across the UK.
@@ -19,9 +19,9 @@ Centred on reproducible reports and dashboards, this project delivers training a
 
 Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great packages for creating reproducible reports and dashboards.
 
-These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards, and Binder environments—are all underlain by freeware, inexpensive applications, and reproducible workflows. The usefulness of these tools extends from academia to data science. 
+These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware, inexpensive applications and reproducible workflows. The usefulness of these tools extends from academia to data science. 
 
-In each session, common challenges are flagged based on multi-levelled, real examples, and resources for further practice are provided. Every workshop has a taught part and a hands-on part. The level of the taught content are largely tailored to the audience, and the hands-on part are individually adaptable thanks to easier and tougher tasks available. To fully cater to the possibilities of different audiences, different workshops can be combined into the one session, and the duration can also be tailored.
+In each session, common challenges are flagged based on multi-levelled, real examples and resources for further practice are provided. Every workshop has a taught part and a hands-on part. The level of the taught content are largely tailored to the audience, and the hands-on part is individually adaptable thanks to easier and tougher tasks available. To fully cater to the possibilities of different audiences, different workshops can be combined into the one session, and the duration can also be tailored.
 
 *Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
 

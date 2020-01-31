@@ -39,7 +39,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Community ([RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc.): using and contributing;
 - [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
 
-2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into blogs, books, and data dashboards.
+2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into well-formatted documents, blogs, books, and data dashboards.
 
 <p align = 'center'> <a href = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> </a> <p align = 'center' style = 'text-align:center;'> Image from https://github.com/rstudio/pagedown </p> </p>
 

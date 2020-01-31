@@ -4,19 +4,18 @@
 
 This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation, across the UK. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
-## Open data
+### Open data
 
 Original data has become a [public good in many research fields](https://www.nature.com/articles/d41586-019-01506-x), thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Academics and non-academic researchers (scientists, governments, NGOs) nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any analysts to access these raw data, create any (additional) visualisations and analyses they like, and share these.
 
-## Open source software
+### Open source software
 
 Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation, and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
-## Activities
 
 Centred on reproducible reports and dashboards, this project delivers training and practice sessions throughout 2020 and into the first quarter of 2021. The training is useful on its own, and also paves the way to the practice sessions. All activities are available across the UK.
 
-### R workshops
+## R workshops
 
 Four participatory, practical workshops in [R](https://www.r-project.org) are on offer, specifically using [RStudio](https://rstudio.com/). The reason for choosing R is that it has great packages for creating reproducible reports and dashboards.
 
@@ -51,7 +50,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 <p align = 'center'> <img align = 'center' width = '80%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </p>
 
 
-### Hackathons: creating reproducible reports and dashboards
+## Hackathons: creating reproducible reports and dashboards
 
 These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., R Markdown) or data dashboards (e.g., R Shiny) from any open access data they choose.
 

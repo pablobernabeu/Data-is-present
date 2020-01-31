@@ -2,7 +2,7 @@
 
 ## Enhanced presentation of open data using reproducible reports and dashboards
 
-This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
+This open scholarship project offers free workshops and coding meet-ups to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu).
 
 ### Background
 
@@ -55,7 +55,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 
 ### Hackathons: creating reproducible reports and dashboards
 
-These hackathons are half-day meetings meetings in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open access data they choose.
+These hackathons are coding meet-ups in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open access data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development.
 

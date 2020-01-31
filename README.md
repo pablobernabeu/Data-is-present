@@ -33,7 +33,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Object-oriented programming;
 - Data structures;
 - Loading and writing data, in native and foreign formats;
-- Packages: general-use (e.g., [tidyverse](https://www.tidyverse.org/)) and field-specific examples;
+- Packages: general-purpose (e.g., [tidyverse](https://www.tidyverse.org/)) and field-specific examples;
 - Functions;
 - Debugging;
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [Glasgow University](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));

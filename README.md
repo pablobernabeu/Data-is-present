@@ -2,7 +2,7 @@
 
 ## Enhanced presentation of open data using reproducible reports and dashboards
 
-This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation in the UK. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu). Below, a background on open data and software is provided, before a description of the activities.
+This open scholarship project offers free workshops and coding meet-ups (hackathons) to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. It was made possible by a [fellowship of the Software Sustainability Institute](https://www.software.ac.uk/programmes-and-events/fellowship-programme) awarded to [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu). Below, a background on open data and software is provided, before a description of the activities.
 
 #### Open data
 
@@ -11,9 +11,6 @@ Original data has become a [public good in many research fields](https://www.nat
 #### Open software
 
 Open-source programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
-
-
-Centred on reproducible reports and dashboards, this project delivers training and practice sessions throughout 2020 and into the first quarter of 2021. The training is useful on its own, and also paves the way to the practice sessions. All activities are available across the UK.
 
 ## R workshops
 

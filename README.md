@@ -24,7 +24,7 @@ These workshops cover a suite of interrelated tools based on R and Docker. The t
 
 In each session, common challenges are flagged based on multi-levelled, real examples and resources for further practice are provided. Every workshop has a taught part and a hands-on part. The level of the taught content is largely tailored to the audience, and the hands-on part is individually adaptable thanks to easier and tougher tasks available. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops.
 
-*Prerequisites:* R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/). 
+*Prerequisites:* Laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
 
 *Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository for Workshop 4).
 
@@ -57,7 +57,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 
 These hackathons are coding meet-ups in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
 
-*Prerequisites:* Basic knowledge of dashboard development.
+*Prerequisites:* Basic knowledge of dashboard development, and laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
 
 *Recommended preparation:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 

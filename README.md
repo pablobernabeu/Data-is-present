@@ -24,7 +24,7 @@ Every workshop has a taught part and a practical part. The level of the taught c
 
 *Prerequisites:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
 
-*Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository for Workshop 4).
+*Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository if participating in Workshop 4).
 
 #### Workshop 1: Introduction to R
 

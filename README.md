@@ -41,7 +41,7 @@ Every workshop has a taught part and a practical part. The level of the taught c
 - Debugging;
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back;
-- [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
+- [RStudio Cloud](https://rstudio.cloud/), a great, personal RStudio environment online.
 
 2. **[R Markdown documents](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, with R packages such as `pagedown`, `blogdown`, `bookdown`, and `flexdashboard`, documents can be neatly formatted into blogs, books, and data dashboards.
 

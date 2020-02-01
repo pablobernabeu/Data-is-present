@@ -40,7 +40,7 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back;
 - [RStudio Cloud](https://rstudio.cloud/), a great, individual RStudio environment online.
 
-2. **[R Markdown reports](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, reports can be turned into well-formatted documents, blogs, books, and data dashboards.
+2. **[R Markdown documents](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, by using R packages such as `pagedown`, `blogdown`, `bookdown`, `flexdashboard`, documents can be turned into well-formatted documents, blogs, books, and data dashboards.
 
 <p align = 'center'> <a href = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> </a> <p align = 'center' style = 'text-align:center;'> Image from pagedown: https://github.com/rstudio/pagedown </p> </p>
 
@@ -53,16 +53,16 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 <p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' /> </a> </p>
 
 
-### Hackathons: creating reproducible reports and dashboards
+### Hackathons: creating reproducible documents and dashboards
 
-These hackathons are coding meet-ups in which participants collaborate to create reproducible reports (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
+These hackathons are coding meet-ups in which participants collaborate to create reproducible documents (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development, and laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
 
 *Recommended preparation:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
-- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible report or dashboard created for a certain, open-access data set, please let us know, and some hackathon participants may take it on.
+- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible document or dashboard created for a certain, open-access data set, please let us know, and some hackathon participants may take it on.
 
-- **Purpose**: Visualising the data in new ways using reproducible reports or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
+- **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
-- **Output**: A central goal of these meet-ups is the creation of output. Reports and dashboards are (co-)authored by the participants who develop them, who can then publish them on their own websites, [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
+- **Output**: A central goal of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who develop them, who can then publish them on their own websites, [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.

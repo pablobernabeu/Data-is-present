@@ -16,6 +16,8 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ## Activities
 
+Activities comprise workshops in R and hackathons.
+
 ### R workshops
 
 [R is a programming language](https://www.r-project.org) greatly equipped for creating reproducible documents and dashboards. Four free workshops in R are available that cover a suite of interrelated tools. These tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware and reproducible workflows.

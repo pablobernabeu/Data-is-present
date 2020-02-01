@@ -45,7 +45,7 @@ This intense workshop serves as a very first introduction to R or a revision. It
 - [Interactive plots with `plotly::ggplotly()`](https://plot.ly/ggplot2/)
 - [Statistics](https://learningstatisticswithr-bookdown.netlify.com/part-v-statistical-tools.html)
 - [How functions work](https://swcarpentry.github.io/r-novice-inflammation/02-func-R/)
-- Debugging. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. :sweat_smile: Some tips for the first 40 years programming in R: watching for error messages in source window and console; watching letter case; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function.
+- *Debugging*. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. :sweat_smile: Some tips for the first 40 years programming in R: watching for error messages in source window and console; watching letter case; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function.
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow]() and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944))
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back.
 - [RStudio Cloud](https://rstudio.cloud/): a great, personal RStudio environment online

@@ -75,7 +75,7 @@ These hackathons are coding meet-ups in which participants collaborate to create
 
 *Recommended preparation:* Familiarity with the relevant links herein; possibly also, having an idea about data and you'd like to work with and the kind of document or dashboard you want to create.
 
-- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible document or dashboard created for a certain, open-access data set, please let us know, and some hackathon participants may take it on.
+- **Data**: Academic or non-academic, open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc. Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible document or dashboard created for a certain, open-access data set, please let us know, and some participants may take it on.
 
 - **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 

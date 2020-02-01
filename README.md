@@ -18,11 +18,9 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ### R workshops
 
-[R is a programming language](https://www.r-project.org) greatly equipped for creating reproducible documents and dashboards. Four workshops in R are available for free.
+[R is a programming language](https://www.r-project.org) greatly equipped for creating reproducible documents and dashboards. Four, free workshops in R are available which cover a suite of related tools. These tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware and reproducible workflows. Experience with these tools is valued in many fields. In each session, common challenges are flagged based on multi-levelled, real examples, and further resources are provided. 
 
-These workshops cover a suite of interrelated tools based on R and Docker. The three tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware, inexpensive applications and reproducible workflows. The usefulness of these tools extends from academia to data science.
-
-In each session, common challenges are flagged based on multi-levelled, real examples and resources for further practice are provided. Every workshop has a taught part and a hands-on part. The level of the taught content is largely tailored to the audience, and the hands-on part is individually adaptable thanks to easier and tougher tasks available. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops.
+Every workshop has a taught part and a hands-on part. The level of the taught content is largely tailored to the audience, and the hands-on part is individually adaptable thanks to easier and tougher tasks available. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops.
 
 *Prerequisites:* Laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
 

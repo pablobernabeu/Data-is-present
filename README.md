@@ -40,7 +40,7 @@ This intense workshop serves as a very first introduction to R or a revision. It
 - [Combining data sets](https://psyteachr.github.io/msc-data-skills/joins.html#joins);
 - [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/);
 - [Plots with `ggplot2::ggplot()`](https://philmcaleer.github.io/ug2-practical/visualisation-through-ggplot2.html);
-- [Interactive plots with `plotly::ggplotly()](https://plot.ly/ggplot2/)`
+- [Interactive plots with `plotly::ggplotly()`](https://plot.ly/ggplot2/)`
 - [Statistics](https://learningstatisticswithr-bookdown.netlify.com/part-v-statistical-tools.html);
 - [How functions work](https://swcarpentry.github.io/r-novice-inflammation/02-func-R/);
 - Debugging. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. Some tips for the first 40 years programming in R: watching for error messages and signals, and acting upon them; watching letter case; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function;

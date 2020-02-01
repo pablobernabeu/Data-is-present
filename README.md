@@ -34,7 +34,12 @@ In each session, common challenges are flagged based on multi-levelled, real exa
 - Data structures;
 - Loading and writing data, in native and foreign formats;
 - Packages: general-purpose (e.g., [tidyverse](https://www.tidyverse.org/)) and field-specific examples;
-- Functions;
+- *Wide*, *long* and [*tidy*](https://r4ds.had.co.nz/tidy-data.html) data formats;
+- Joining datasets;
+- Data summaries;
+- Plots;
+- Statistics;
+- How functions work;
 - Debugging;
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back;

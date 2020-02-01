@@ -18,7 +18,7 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ### R workshops
 
-[R is a programming language](https://www.r-project.org) greatly equipped for creating reproducible documents and dashboards. Four, free workshops in R are available which cover a suite of related tools. These tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware and reproducible workflows. Experience with these tools is valued in many fields.
+[R is a programming language](https://www.r-project.org) greatly equipped for creating reproducible documents and dashboards. Four free workshops in R are available that cover a suite of interrelated tools. These tools—R Markdown, data dashboards and Binder environments—are all underlain by freeware and reproducible workflows. Experience with these tools is valued in many fields.
 
 Every workshop has a taught part and a practical part. The level of the taught content is largely tailored to the audience, and the practical part is individually adaptable thanks to the availability of easier and tougher tasks. Throughout the workshops, and especially during the practical part, individual questions will be welcome. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops. Multi-levelled, real code examples are used.
 
@@ -28,24 +28,29 @@ Every workshop has a taught part and a practical part. The level of the taught c
 
 1. **Introduction to R:**
 
-- Object-oriented programming;
-- Data structures;
-- Loading and writing data, in native and foreign formats;
-- Packages: general-purpose (e.g., [tidyverse](https://www.tidyverse.org/)) and field-specific examples;
-- *Wide*, *long* and [*tidy*](https://r4ds.had.co.nz/tidy-data.html) data formats;
-- Joining datasets;
-- Data summaries;
-- Plots;
-- Statistics;
-- How functions work;
-- Debugging;
+This intense workshop serves as a very first introduction to R or a revision. It shows what can be done in R, and provides participants with resources for individual training.
+
+- [Data structures](http://adv-r.had.co.nz/Data-structures.html);
+- [Packages](http://www.sthda.com/english/wiki/installing-and-using-r-packages): general-purpose examples (e.g., [tidyverse](https://www.tidyverse.org/)) and more specific ones (e.g., for [statistics](https://cran.r-project.org/web/packages/lsr/lsr.pdf) or [geography](https://cran.r-project.org/web/packages/GEOmap/GEOmap.pdf));
+- [Loading and writing data, in native and foreign formats](https://cran.r-project.org/web/packages/rio/vignettes/rio.html);
+- *Wide* format (also dubbed 'untidy') versus *tidy* format (also dubbed 'long' or 'narrow'). For most processes in R, [data needs to be in a tidy format](https://r4ds.had.co.nz/tidy-data.html);
+
+<p align = 'center'> <a href = 'https://github.com/rstudio/pagedown'> <img width = '30%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' /> </a> <p align = 'center' style = 'text-align:center;'> Image from Postma and Goedhart (2019; https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
+
+- Combining data sets with [`merge()`](https://bookdown.org/ndphillips/YaRrr/merge-combining-data.html);
+- [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/);
+- [Plots with `ggplot2::ggplot()`](https://philmcaleer.github.io/ug2-practical/visualisation-through-ggplot2.html);
+- [Interactive plots with `plotly::ggplotly()](https://plot.ly/ggplot2/)`
+- [Statistics](https://learningstatisticswithr-bookdown.netlify.com/part-v-statistical-tools.html);
+- [How functions work](https://swcarpentry.github.io/r-novice-inflammation/02-func-R/);
+- Debugging (code errors) early on: mind letter case, close parentheses and inverted commas, ensure to have necessary packages installed and loaded;
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow](), and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back;
 - [RStudio Cloud](https://rstudio.cloud/), a great, personal RStudio environment online.
 
 2. **[R Markdown documents](https://rmarkdown.rstudio.com/)** —  Set your input and output beautifully in stone. These reports may be enriched with website features (HTML/CSS), and published as websites, PDF, or Word. Moreover, with R packages such as `pagedown`, `blogdown`, `bookdown`, and `flexdashboard`, documents can be neatly formatted into blogs, books, and data dashboards.
 
-<p align = 'center'> <a href = 'https://github.com/rstudio/pagedown'> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> </a> <p align = 'center' style = 'text-align:center;'> Image from pagedown: https://github.com/rstudio/pagedown </p> </p>
+<p align = 'center'> <a href = 'https://github.com/rstudio/pagedown'> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' /> </a> <p align = 'center' style = 'text-align:center;'> Image from pagedown package (https://github.com/rstudio/pagedown). </p> </p>
 
 3. **Introduction to data dashboards** —  [Web applications can be used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot`, `plotly`, `rmarkdown`, `flexdashboard`, and `shiny`. The aim is to practise with different forms of dashboards—namely, [Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—, and with the suitable hosting platforms for each type—including personal websites, RPubs, Binder, Shinyapps, and custom servers. A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level by means of HTML, CSS and Javascript code, which is addressed in the next workshop.
 

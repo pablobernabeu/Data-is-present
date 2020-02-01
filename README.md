@@ -37,16 +37,16 @@ This intense workshop serves as a very first introduction to R or a revision. It
 
 <p align = 'center'> <a href = 'https://doi.org/10.1371/journal.pbio.3000202.g001'> <img width = '30%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' /> </a> <p align = 'center' style = 'text-align:center;'> Image from Postma and Goedhart (2019; https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
 
-- [Combining data sets](https://psyteachr.github.io/msc-data-skills/joins.html#joins);
-- [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/);
-- [Plots with `ggplot2::ggplot()`](https://philmcaleer.github.io/ug2-practical/visualisation-through-ggplot2.html);
-- [Interactive plots with `plotly::ggplotly()`](https://plot.ly/ggplot2/)`
-- [Statistics](https://learningstatisticswithr-bookdown.netlify.com/part-v-statistical-tools.html);
-- [How functions work](https://swcarpentry.github.io/r-novice-inflammation/02-func-R/);
-- Debugging. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. Some tips for the first 40 years programming in R: watching for error messages and signals, and acting upon them; watching letter case; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function;
-- Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow]() and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944));
-- Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back;
-- [RStudio Cloud](https://rstudio.cloud/), a great, personal RStudio environment online.
+- [Combining data sets](https://psyteachr.github.io/msc-data-skills/joins.html#joins)
+- [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/)
+- [Plots with `ggplot2::ggplot()`](https://philmcaleer.github.io/ug2-practical/visualisation-through-ggplot2.html)
+- [Interactive plots with `plotly::ggplotly()`](https://plot.ly/ggplot2/)
+- [Statistics](https://learningstatisticswithr-bookdown.netlify.com/part-v-statistical-tools.html)
+- [How functions work](https://swcarpentry.github.io/r-novice-inflammation/02-func-R/)
+- Debugging. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. Some tips for the first 40 years programming in R: watching for error messages and signals, and acting upon them; watching letter case; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function.
+- Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow]() and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944))
+- Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back
+- [RStudio Cloud](https://rstudio.cloud/), a great, personal RStudio environment online
 
 #### Workshop 2: R Markdown documents
 

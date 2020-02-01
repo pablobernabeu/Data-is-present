@@ -22,7 +22,7 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 Every workshop has a taught part and a hands-on part. The level of the taught content is largely tailored to the audience, and the hands-on part is individually adaptable thanks to easier and tougher tasks available. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops. Multi-levelled, real code examples are used.
 
-*Prerequisites:* Laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
+*Prerequisites:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
 
 *Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository for Workshop 4).
 
@@ -60,7 +60,7 @@ Every workshop has a taught part and a hands-on part. The level of the taught co
 
 These hackathons are coding meet-ups in which participants collaborate to create reproducible documents (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
 
-*Prerequisites:* Basic knowledge of dashboard development, and laptop or computer with R (https://www.r-project.org/) and RStudio (https://rstudio.com/products/rstudio/download/) installed.
+*Prerequisites:* Basic knowledge of dashboard development, and laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
 
 *Recommended preparation:* Familiarity with the relevant links herein; an idea about the data and analyses to be performed.
 
@@ -68,4 +68,4 @@ These hackathons are coding meet-ups in which participants collaborate to create
 
 - **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
-- **Output**: A central goal of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who develop them, who can then publish them on their own websites, [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
+- **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who develop them, who can then publish them on their own websites, [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.

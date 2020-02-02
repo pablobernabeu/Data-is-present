@@ -16,7 +16,7 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ## Activities
 
-Activities comprise **workshops** in R and **hackathons**.
+Activities comprise **workshops in R** and **hackathons**.
 
 ### R workshops
 
@@ -66,7 +66,15 @@ These all-reproducible dashboards are published as websites, and thus, they can 
 
 #### Workshop 4: Binder environments and intermediate data dashboards
 
-This session begins by introducing [Binder environments](https://mybinder.org/), a tool to facilitate public access to our code (e.g., by publishing an RStudio session on the internet). These environments can also host Shiny apps. Binder is generously free [for the users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a Binder deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop. Next, we will turn to data dashboards, to gain further experience with different formats—namely, [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Shiny app](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/) and [Flexdashboard-Shiny app](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table)—and with the suitable hosting platforms. Transforming dashboards into the different versions can be as easy as enabling or disabling some features, especially input reactivity. For instance, to transform a Flexdashboard type into a Flexdashboard-Shiny type with greater reactive features, as in this [example](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd):
+This session begins by introducing [Binder environments](https://mybinder.org/), a tool to facilitate public access to our code (e.g., by publishing an RStudio session on the internet). These environments can also host Shiny apps. Binder is generously free [for the users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a Binder deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop. Next, we will turn to data dashboards, to gain further experience with different formats—namely, [Flexdashboard website](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Shiny app](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/) and [Flexdashboard-Shiny app](https://pablobernabeu.shinyapps.io/Dutch-modality-exclusivity-norms/#section-table)—and with the suitable hosting platforms. Among the aforementioned types of dashboards, the one combining Flexdashboard and Shiny offers the greatest functionalities.
+
+<p align = 'center'> <a href = 'https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu/'> <img width = '50%' src = 'https://raw.githubusercontent.com/pablobernabeu/Data-is-present/master/ranking.PNG' alt = 'Illustration of the usage of dashboards alongside data repositories' /> </a> </p>
+
+Flexdashboard-type dashboards are rendered as an HTML document—simple websites—, and can therefore be easily on personal sites or RPubs. This is convenient because no special hosting is required. In contrast, Shiny and Flexdashboard-Shiny dashboards offer greater features, but require Shiny servers. Fortunately, the shinyapps.io server is available for free, up to some [usage limit](https://www.shinyapps.io/). This server can host any of the three dashboards mentioned here. Another good option is presented by Binder environments, which can host the Shiny-type dashboards with no (explicit) limit. Yet, the Flexdashboard-Shiny type cannot be hosted in this server ([as of early 2020 at least](https://github.com/jupyter/repo2docker/issues/799)). Consequently, greater functionality may come at a cost for dashboards that have any considerable traffic, whereas dashboards with low traffic may do well on shinyapps.io. Knowing these trade-offs can help navigate [usage limits](https://support.rstudio.com/hc/en-us/articles/217592947-What-are-the-limits-of-the-shinyapps-io-Free-plan-), save on web hosting fees, and increase the availability of our dashboards online, as we can offer fall-back versions on different platforms, as below:
+
+> *[dashboard-link](http://example.com/) (in case of downtime, please visit this [alternative](http://example2.com/))*
+
+Transforming dashboards into the different versions can be as easy as enabling or disabling some features, especially input reactivity. For instance, to transform a Flexdashboard type into a Flexdashboard-Shiny type with greater reactive features, as in this [example](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd):
 
 ````
 ```{r} 
@@ -75,11 +83,7 @@ This session begins by introducing [Binder environments](https://mybinder.org/),
 ``` 
 ````
 
-This knowledge helps reduce [usage limits](https://support.rstudio.com/hc/en-us/articles/217592947-What-are-the-limits-of-the-shinyapps-io-Free-plan-), save on web hosting fees, and increase the availability of our dashboards online, as we can enable fall-back versions on different platforms.
-
-> *[dashboard-link](http://example.com/) (in case of downtime, please visit this [alternative](http://example2.com/))*
-
-Last but not least, we will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
+Last but not least, in Workshop 4 we will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
 
 ```
 <!-- Javascript function to enable a hovering tooltip -->

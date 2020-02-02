@@ -77,7 +77,7 @@ This session begins by introducing [Binder environments](https://mybinder.org/),
 
 This knowledge helps reduce [usage limits](https://support.rstudio.com/hc/en-us/articles/217592947-What-are-the-limits-of-the-shinyapps-io-Free-plan-), save on web hosting fees, and increase the availability of our dashboards online, as we can enable fall-back versions on different platforms.
 
-> [dashboard-link](http://example.com/) (in case of downtime, please visit this [alternative](http://example2.com/))
+> *[dashboard-link](http://example.com/) (in case of downtime, please visit this [alternative](http://example2.com/))*
 
 Last but not least, we will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
 

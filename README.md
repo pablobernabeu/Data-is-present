@@ -2,7 +2,7 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-This open scholarship project offers free workshops and coding meet-ups to learn and practise data presentation across the UK, throughout 2020 and into the first quarter of 2021. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
+This project offers free activities to practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises this thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
 
 ### Background
 
@@ -16,13 +16,13 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ## Activities
 
-Activities comprise workshops in R and hackathons.
+Activities comprise **workshops** in R and **hackathons**.
 
 ### R workshops
 
 [R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four free workshops in R are available that cover a suite of interrelated tools—namely, R Markdown, data dashboards and Binder environments, which are all underlain by freeware and reproducible workflows.
 
-Every workshop has a taught part and a practical part. The level of the taught content is largely tailored to the audience, and the practical part is individually adaptable thanks to the availability of easier and tougher tasks. Throughout the workshops, and especially during the practical part, individual questions will be welcome. To fully cater to different audiences, some workshops can be combined into the one session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface will be used in all workshops. Multi-levelled, real code examples are used.
+Every workshop is formed of taught and practical sections. The level of the taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. Throughout the workshops, and especially in the practical sections, individual questions will be encouraged. To fully cater to each audience, some of the workshops below can be combined into the the same session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used.
 
 *Prerequisites:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed.
 
@@ -30,7 +30,7 @@ Every workshop has a taught part and a practical part. The level of the taught c
 
 #### Workshop 1: Introduction to R
 
-This intense workshop serves as a very first introduction to R or a revision. It shows what can be done in R, and provides participants with resources for individual training.
+This intense workshop serves as a very first introduction to R or a revision. It shows what can be done in R, and provides resources for individual training.
 
 - [Data structures](http://adv-r.had.co.nz/Data-structures.html)
 - [Packages](http://www.sthda.com/english/wiki/installing-and-using-r-packages): general-purpose examples (e.g., [tidyverse](https://www.tidyverse.org/)) and more specific ones (e.g., for [statistics](https://cran.r-project.org/web/packages/lsr/lsr.pdf) or [geography](https://cran.r-project.org/web/packages/GEOmap/GEOmap.pdf))
@@ -58,7 +58,7 @@ Set your input and output in stone, beautifully, with [R Markdown](https://rmark
 
 #### Workshop 3: Introduction to data dashboards
 
-[Web applications can be used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim is to practise with different forms of dashboards—namely, [Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—, and with the suitable hosting platforms for each type—including personal websites, RPubs, Binder, Shinyapps and custom servers. A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level by means of HTML, CSS and Javascript code, which is covered in the next workshop.
+[Web applications can be used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Users need not program. Some of the R packages used are `knitr`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim is to practise with different forms of dashboards—namely, [Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—, and with the suitable hosting platforms for each type—including personal websites, [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) and [custom servers](https://rstudio.com/products/shiny/shiny-server/). A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level by means of HTML, CSS and Javascript code, which is covered in the next workshop.
 
 <p align = 'center'> <a href = 'https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu/'> <img width = '40%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' alt = 'Illustration of the usage of dashboards alongside data repositories' /> </a> </p>
 
@@ -85,7 +85,7 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 - **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
-- **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [shinyapps.io](https://www.shinyapps.io/), etc. Time constraints notwithstanding, a lot of this output may be very enticing for further development, by the same participants or by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
+- **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
 
 ## Contact 
 

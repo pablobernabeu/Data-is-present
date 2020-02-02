@@ -16,7 +16,7 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ## Activities
 
-Activities comprise **workshops in R** and **hackathons**.
+Activities comprise **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards).
 
 ### R workshops
 

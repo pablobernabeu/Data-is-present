@@ -1,4 +1,4 @@
-# *Data is present:* open workshops and hackathons
+# *Data is present:* open [workshops](#r-workshops) and [hackathons](#hackathons-creating-reproducible-documents-and-dashboards)
 
 ## Enhanced data presentation using reproducible documents and dashboards
 

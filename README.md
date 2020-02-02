@@ -75,7 +75,7 @@ Last but not least, we will practise how to improve the functionality of dashboa
 
 ### Hackathons: creating reproducible documents and dashboards
 
-In these coding meet-ups, participants collaborate to create reproducible documents (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) from any open-access data they choose.
+In these coding meet-ups, participants collaborate to create reproducible documents (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) with any data they choose.
 
 *Prerequisites:* Basic knowledge of dashboard development.
 

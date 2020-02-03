@@ -22,11 +22,7 @@ Activities comprise **workshops in R** and [**hackathons**](#hackathons-creating
 
 [R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four free workshops in R are available that cover a suite of interrelated tools—namely, R Markdown, data dashboards and Binder environments, which are all underlain by freeware and reproducible workflows.
 
-Workshops include **taught and practical sections**. The level of the taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. Throughout the workshops, and especially in the practical sections, individual questions will be encouraged. To fully cater to each audience, some of the workshops below can be combined into the the same session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used.
-
-*Prerequisites for participation in each workshop:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein. 
-
-*Further recommended preparation:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops. 
+Workshops include **taught and practical sections**. The level of the taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. Throughout the workshops, and especially in the practical sections, individual questions will be encouraged. To fully cater to each audience, some of the workshops below can be combined into the the same session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used. 
 
 #### Workshop 1: Introduction to R
 
@@ -118,6 +114,10 @@ $(document).ready(function(){
 ```
 
 <p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' alt = 'Examples of data dashboards' /> </a> </p>
+
+*Prerequisites for participation in each workshop:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein. 
+
+*Further recommended preparation:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
 
 
 ### Hackathons: creating reproducible documents and dashboards

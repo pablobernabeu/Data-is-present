@@ -88,7 +88,14 @@ Flexdashboard-type dashboards are rendered as an HTML document—simple websites
 
 > *[dashboard-link](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/) (in case of downtime, please visit this [alternative](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms))*
 
-Transforming dashboards into the different versions can be as easy as enabling or disabling some features, especially input reactivity. For instance, to transform a Flexdashboard type into a Flexdashboard-Shiny type with greater reactive features, as in this [example](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd):
+Transforming dashboards into the different versions can be as easy as enabling or disabling some features, especially input reactivity. For instance, if we want to downgrade a Flexdashboard-Shiny to a Flexdashboard, to publish it outside of a Shiny server (see [example](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd)), we must add a setting in the header of the script
+
+```
+knit: (function(inputFile, encoding) {
+  rmarkdown::render(inputFile, encoding = encoding) })
+```
+
+and disable reactive features
 
 ````
 ```{r} 

@@ -122,7 +122,7 @@ $(document).ready(function(){
 
 ### Hackathons: creating reproducible documents and dashboards
 
-In these coding meet-ups, participants collaborate to create reproducible documents (e.g., [R Markdown](https://rmarkdown.rstudio.com/)) or data dashboards (e.g., [R Shiny](https://shiny.rstudio.com/)) with any data they choose.
+In these coding meet-ups, participants collaborate to create reproducible documents or dashboards for any data they choose, and using the software they prefer. 
 
 *Prerequisites:* Basic knowledge of dashboard development.
 

@@ -24,9 +24,9 @@ Activities comprise **workshops in R** and [**hackathons**](#hackathons-creating
 
 Workshops include **taught and practical sections**. The level of the taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. Throughout the workshops, and especially in the practical sections, individual questions will be encouraged. To fully cater to each audience, some of the workshops below can be combined into the the same session, and the duration can also be tailored. The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used.
 
-*Prerequisites:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/).
+*Prerequisites for participation in each workshop:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein. 
 
-*Recommended preparation:* Familiarity with the content linked on this page; possibly also having your own data and R code (on a Github repository if participating in Workshop 4).
+*Further recommended preparation:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops. 
 
 #### Workshop 1: Introduction to R
 
@@ -124,10 +124,6 @@ $(document).ready(function(){
 
 In these coding meet-ups, participants collaborate to create reproducible documents or dashboards for any data they choose, and using the software they prefer. 
 
-*Prerequisites:* Basic knowledge of dashboard development.
-
-*Recommended preparation:* Familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
-
 - **Data used**: Academic or non-academic data of your own, or open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
 
   - Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible document or dashboard created for a certain, open-access data set, please let us know, and some participants may take it on. Suggestions may be posted as [issues](https://github.com/pablobernabeu/Data-is-present/issues) or emailed to p.bernabeu@lancaster.ac.uk.
@@ -135,6 +131,10 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 - **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
 - **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
+
+*Prerequisites for participation:* Basic knowledge of reproducible documents or dashboards. 
+
+*Further recommended preparation:* Familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
 
 ## Contact 
 

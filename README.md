@@ -72,7 +72,17 @@ This session begins by introducing [Binder environments](https://mybinder.org/),
 
 Next, we will turn to data dashboards, to gain further experience with three different types—Flexdashboard, Shiny and Flexdashboard-Shiny—and with the suitable hosting platforms. The simplest type is Flexdashboard, and the most complete one is Flexdashboard-Shiny. The latter presents a neat user interface, and incorporates Shiny reactivity, allowing users to download sections of data they choose, in various formats. The differences among the three types are reflected in these examples of [Flexdashboard](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms), [Shiny](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/), and [Flexdashboard-Shiny](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/).
 
-<p align = 'center'> <a href = 'https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu/'> <img width = '40%' src = 'https://raw.githubusercontent.com/pablobernabeu/Data-is-present/master/ranking.PNG' alt = 'Trade-offs among Flexdashboard, Shiny, and Flexdashboard-Shiny formats for data dashboards' /> </a> </p>
+<p align='center'>
+    &#x2605; <b> Flexdashboard </b> &#x2605;
+</p>
+
+<p align='center'>
+    &#x2605; &#x2605; <b> Shiny </b> &#x2605; &#x2605;
+</p>
+
+<p align='center'>
+    &#x2605; &#x2605; &#x2605; <b> Flexdashboard-Shiny </b> &#x2605; &#x2605; &#x2605;
+</p>
 
 Flexdashboard-type dashboards are rendered as an HTML document—simple websites—, and can therefore be easily on personal sites or RPubs. This is convenient because no special hosting is required. In contrast, Shiny and Flexdashboard-Shiny dashboards offer greater features, but require Shiny servers. Fortunately, the shinyapps.io server is available for free, up to some [usage limit](https://www.shinyapps.io/). This server can host any of the three dashboards mentioned here. Another good option is presented by Binder environments, which can host the Shiny-type dashboards with no (explicit) limit. Yet, the Flexdashboard-Shiny type cannot be hosted in this server ([as of early 2020 at least](https://github.com/jupyter/repo2docker/issues/799)). Consequently, greater functionality may come at a cost for dashboards that have any considerable traffic, whereas dashboards with low traffic may do well on shinyapps.io. Knowing these trade-offs can help navigate [usage limits](https://support.rstudio.com/hc/en-us/articles/217592947-What-are-the-limits-of-the-shinyapps-io-Free-plan-), save on web hosting fees, and increase the availability of our dashboards online, as we can offer fall-back versions on different platforms, as below:
 

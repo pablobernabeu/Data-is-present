@@ -2,7 +2,7 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-This project offers free activities to practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) covering travel costs.
+This project offers free activities to practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers travel costs.
 
 ### Background
 

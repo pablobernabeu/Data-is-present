@@ -48,7 +48,7 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 - *Debugging*. Code errors are known as bugs. They are often tiresome but can also be interesting, depending on the number of hours slept. :sweat_smile: Some tips for the first 40 years of experience: watching for error messages in source window and console; controlling letter case and typos; closing parentheses and inverted commas; ensuring to have the necessary packages installed and loaded; following the format required by each function. To debug, break up code into subcomponents and test each of those to find out the source of the error. Best possible outcome: error vanishes. Second best outcome: error changes. If the error changes, one error has been resolved, and another one is to be tackled. [Advanced debugging tools also available](https://support.rstudio.com/hc/en-us/articles/205612627-Debugging-with-RStudio).
 - Vast availability of free resources on the internet (e.g., from [RStudio](), [University of Glasgow]() and [many more](https://twitter.com/nickgaspelin/status/1219699050741714944))
 - Community: [Github repositories](https://github.com) (e.g., for R packages), [RStudio Community](https://community.rstudio.com/), [StackOverflow](https://stackoverflow.com/), etc. Using and contributing back.
-- [RStudio Cloud](https://rstudio.cloud/): a complete, personal RStudio environment online
+- [RStudio Cloud](https://rstudio.cloud/): a personal RStudio environment on the internet
 
 #### Workshop 2: R Markdown documents
 

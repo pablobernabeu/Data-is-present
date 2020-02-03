@@ -122,7 +122,7 @@ $(document).ready(function(){
 
 ### Hackathons: creating reproducible documents and dashboards
 
-In these coding meet-ups, participants collaborate to create reproducible documents or dashboards for any data they choose, and using the software they prefer. 
+In these coding meet-ups, participants collaborate to create reproducible documents or dashboards using the data and the software they prefer. 
 
 - **Data used**: Academic or non-academic data of your own, or open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
 

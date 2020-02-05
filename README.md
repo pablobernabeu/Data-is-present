@@ -8,9 +8,9 @@
 | ------------------ | --------------- | ---------- | ------------ |
 |                    |                 |            |              |
 
-This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers costs. If you would like to see any of these events at your institution, [please get in touch](#contact).
-
 ### Background
+
+This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers costs. If you would like to see any of these events at your institution, [please get in touch](#contact).
 
 #### Open data
 

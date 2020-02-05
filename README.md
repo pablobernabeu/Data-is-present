@@ -2,11 +2,9 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-### Events
-
-| Activity           | Place           | Date       | Registration |
-| ------------------ | --------------- | ---------- | ------------ |
-|                    |                 |            |              |
+| Activity                 | Location           | Date       | Registration |
+| ------------------------ | ------------------ | ---------- | ------------ |
+|                          |                    |            |              |
 
 ### Background
 

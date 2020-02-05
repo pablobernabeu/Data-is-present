@@ -2,7 +2,7 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-### Calendar
+### Events
 
 | Activity           | Place           | Date       | Registration |
 | ------------------ | --------------- | ---------- | ------------ |

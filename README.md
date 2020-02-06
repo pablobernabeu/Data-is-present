@@ -6,7 +6,7 @@
 
 | Activity                      | Location           | Date       | Registration |
 | ----------------------------- | ------------------ | :----------: | :------------: |
-| [Workshop](https://github.com/pablobernabeu/Data-is-present#workshop-3-introduction-to-data-dashboards)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/) | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) |
+| [Workshop](https://github.com/pablobernabeu/Data-is-present#r-workshops)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/) | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) |
 
 ### Background
 

@@ -16,9 +16,9 @@ This project offers activities to learn and practise reproducible data presentat
 
 Original data has become a [public good in many research fields](https://www.nature.com/articles/d41586-019-01506-x), thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Researchers inside and outside academia nowadays share a lot of their data under citation-based licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any external analysts to access these raw data, create (additional) visualisations and analyses, and share these. In society, open data has a [demonstrably positive potential](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1140&context=yhrdlj) (despite [caveats](https://firstmonday.org/ojs/index.php/fm/article/view/3316/2764#author)).
 
-#### Open software
+#### Open-source software
 
-Open-source programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
+Programs such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
 ## Activities
 

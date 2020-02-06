@@ -1,14 +1,14 @@
-# *Data is present:* open [workshops](#r-workshops) and [hackathons](#hackathons-creating-reproducible-documents-and-dashboards)
+# *Data is present:* [workshops](#r-workshops) and [hackathons](#hackathons-creating-reproducible-documents-and-dashboards)
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-| Activity                 | Location           | Date       | Registration |
-| ------------------------ | ------------------ | ---------- | ------------ |
-|                          |                    |            |              |
+| Activity                      | Location           | Date       | Registration |
+| ----------------------------- | ------------------ | :----------: | :------------: |
+| [Workshops 3 & 4](https://github.com/pablobernabeu/Data-is-present#workshop-3-introduction-to-data-dashboards)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/) | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) |
 
 ### Background
 
-This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers costs. If you would like to see any of these events at your institution, [please get in touch](#contact).
+This project offers activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers costs. If you would like to see any of these events organised at your institution, [please get in touch](#contact).
 
 #### Open data
 
@@ -20,11 +20,11 @@ Open-source programs such as [R](https://www.r-project.org/about.html) and [Pyth
 
 ## Activities
 
-Activities comprise free **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards) in which every program is welcome.
+Activities comprise **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards) in which every program is welcome.
 
 ### R workshops
 
-[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four free workshops in R are available that cover a suite of interrelated tools—namely, R Markdown, data dashboards and Binder environments, which are all underlain by freeware and reproducible workflows.
+[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops in R are available that cover a suite of interrelated tools—namely, R Markdown, data dashboards and Binder environments, which are all underlain by freeware and reproducible workflows.
 
 Each workshop includes **taught and practical sections**. The level of taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session. 
 

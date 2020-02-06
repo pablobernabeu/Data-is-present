@@ -4,13 +4,13 @@
 
 ### Calendar
 
-| Activity                      | Location           | Date       | Registration |
-| ----------------------------- | ------------------ | :----------: | :------------: |
-| [Workshop](https://github.com/pablobernabeu/Data-is-present#r-workshops)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/) | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) |
+| Activity                      | Location           | Date         | Registration   | Funding      |
+| ----------------------------- | ------------------ | :----------: | :------------: | ------------ |
+| [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/), University of Birmingham | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) | tbc      |
 
 ### Background
 
-This project offers activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers costs. If you would like to see any of these events organised at your institution, [please get in touch](#contact).
+This project offers activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises the events thanks to a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme). To bring any of these events to your institution, at no charge, [please submit a request](#contact).
 
 #### Open data
 

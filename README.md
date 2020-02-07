@@ -34,7 +34,7 @@ The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-le
 
 #### Workshop 1: Introduction to R
 
-This workshop can serve as an introduction to R or a revision. It demonstrates what can be done in R, and provides resources for individual training.
+This workshop can serve as an introduction to R or a revision. It demonstrates what can be done in R, and provides resources for individual training. Free or affordable, online courses are recommended ([see examples](https://www.coursera.org/courses?query=r)).
 
 - [Data structures](http://adv-r.had.co.nz/Data-structures.html)
 - [Packages](http://www.sthda.com/english/wiki/installing-and-using-r-packages): general-purpose examples (e.g., [tidyverse](https://www.tidyverse.org/)) and more specific ones (e.g., for [statistics](https://cran.r-project.org/web/packages/lsr/lsr.pdf) or [geography](https://cran.r-project.org/web/packages/GEOmap/GEOmap.pdf))

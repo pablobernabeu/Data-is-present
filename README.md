@@ -22,7 +22,7 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-Activities comprise **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards) in which every program is welcome.
+Activities comprise free **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards) in which any software may be used.
 
 ### R workshops
 

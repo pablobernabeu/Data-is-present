@@ -6,7 +6,7 @@
 
 | Activity                      | Location           | Date         | Registration   | Funding      |
 | ----------------------------- | ------------------ | :----------: | :------------: | ------------ |
-| [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Pre-Conference 2020](https://www.ukclc2020.com/), University of Birmingham | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) | tbc      |
+| [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/), University of Birmingham | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) | tbc      |
 
 ### Background
 

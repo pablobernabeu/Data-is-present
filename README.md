@@ -165,7 +165,7 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 - **Purpose**: Visualising the data in new ways using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
 
-- **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, a attribution licence can be attached to the code.
+- **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, an attribution licence can be attached to the code.
 
 #### Prerequisites and suggestions for participation in hackathons
 

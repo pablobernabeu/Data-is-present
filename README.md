@@ -4,9 +4,9 @@
 
 ### Calendar
 
-| Activity                      | Location           | Date         | Registration   | Funding      |
-| ----------------------------- | ------------------ | :----------: | :------------: | ------------ |
-| [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/), University of Birmingham | 27 July 2020 | [Link](https://www.ukclc2020.com/registration) | tbc      |
+| Date         | Activity                      | Location           | Registration   | Funding      |
+| :----------: | ----------------------------- | ------------------ | :------------: | ------------ |
+| 27 July 2020 | [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference 2020](https://www.ukclc2020.com/), University of Birmingham | [Link](https://www.ukclc2020.com/registration) | tbc      |
 
 ### Background
 
@@ -67,11 +67,26 @@ Set your input and output in stone, beautifully, with [R Markdown](https://rmark
 
 <p align = 'center'> <a href = 'https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu/'> <img width = '40%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' alt = 'Illustration of the usage of dashboards alongside data repositories' /> </a> </p>
 
-These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Some of the R packages used are `knitr`, `kableExtra`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim of this workshop is to practise creating different forms of dashboards—[Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—the latter of which offers greater features, and to practise also with the hosting platforms fitting each type—such as personal websites, [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) and [custom servers](https://rstudio.com/products/shiny/shiny-server/). A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level by using some HTML, CSS or Javascript code, which is addressed in the next workshop.
+These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Some of the R packages used are `knitr`, `kableExtra`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim of this workshop is to practise creating different forms of dashboards—[Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—the latter of which offers greater features, and to practise also with the hosting platforms fitting each type—such as personal websites, [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) and [custom servers](https://rstudio.com/products/shiny/shiny-server/). A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level using some HTML, CSS or Javascript code (on top of the back-end code present in the R packages used), which is addressed in the next workshop.
 
 #### Workshop 4: Binder environments and intermediate data dashboards
 
 This session begins by introducing [Binder environments](https://mybinder.org/), a tool to facilitate public access to our code (e.g., by publishing an RStudio session on the internet). These environments can also host Shiny apps. Binder is generously free [for the users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop.
+
+##### Website properties
+
+We will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
+
+```
+<!-- Javascript function to enable a hovering tooltip -->
+<script>
+$(document).ready(function(){
+    $('[data-toggle="tooltip1"]').tooltip();
+});
+</script>
+```
+
+<p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' alt = 'Examples of data dashboards' /> </a> </p>
 
 ##### Trade-offs among dashboards
 
@@ -91,7 +106,7 @@ Next, we will turn to data dashboards, to gain further experience with three typ
 
 Flexdashboard-type dashboards are rendered as an HTML document—simple websites—, and can therefore be easily published on personal sites or [RPubs](https://rpubs.com/). This is convenient because no special hosting is required. In contrast, Shiny and Flexdashboard-Shiny types offer greater features, but require Shiny servers. Fortunately, the shinyapps.io server is available for free, up to some [usage limit](https://www.shinyapps.io/). This server can host any of the three dashboards mentioned here. Another good option is presented by Binder environments, which can host the Shiny-type dashboards with no (explicit) limit. Yet, the Flexdashboard-Shiny type cannot be hosted in this server ([as of January 2020, at least](https://github.com/jupyter/repo2docker/issues/799)). Consequently, greater functionality may come at a cost for dashboards that have any considerable traffic, whereas dashboards with low traffic may do well on shinyapps.io. Knowing these trade-offs can help navigate [usage limits](https://support.rstudio.com/hc/en-us/articles/217592947-What-are-the-limits-of-the-shinyapps-io-Free-plan-), save on web hosting fees, and increase the availability of our dashboards online, as we can offer fall-back versions on different platforms, as in the example below:
 
-> ... *[dashboard-link](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/) (in case of downtime, please visit this [alternative](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms))*
+> ... *[preferred-dashboard](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/) (in case of downtime, please visit this [alternative](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms))*
 
 Transforming dashboards into the different versions can be as easy as enabling or disabling some features, especially input reactivity. For instance, if we want to downgrade a Flexdashboard-Shiny to a Flexdashboard, to publish it outside of a Shiny server (see [example](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd)), we must add a setting in the header of the script
 
@@ -103,31 +118,42 @@ knit: (function(inputFile, encoding) {
 and disable reactive features
 
 ````
-```{r} 
+```{r}
 # Number of words selected on sidebar
 # reactive(cat(paste0('Words selected below: ', nrow(selected_props()))))
-``` 
+```
 ````
 
-##### Website properties
+##### Free accounts and tips
 
-Last but not least, in Workshop 4 we will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
+App providers have specific terms of use. To begin, [shinyapps.io](https://www.shinyapps.io/) has a free starter license with limited use, where free apps can handle a certain amount of data, and up to five apps may be created. Beyond that, RStudio offers a wide range of subscriptions starting at $9/month.
+
+Memory and traffic limits of the free shinyapps.io account can sometimes present problems when heavy data data sets are used, or there are many visits to the app. The memory overload issue is often flagged as `Shiny cannot use on-disk bookmarking`, whereas excessive traffic may see the app not loading. Fortunately, usage limits need not always require a paid subscription or a [custom server](https://www.r-bloggers.com/alternative-approaches-to-scaling-shiny-with-rstudio-shiny-server-shinyproxy-or-custom-architecture/). Some tips to avoid that are:
+
+- Develop app locally as far as possible, and only deploy to shinyapps.io only at the last stage;
+- Prune data set, leaving only the necessary data;
+- If necessary, unlink data by splitting it into different sets, reducing computational demands;
+- If necessary, use various apps (five are allowed in each free shinyapps.io account);
+- If necessary, link from the app to a PDF with visualisations requiring heavy, interlinked data. High-resolution plots can be rendered into a PDF document in a snap, using code such as below:
 
 ```
-<!-- Javascript function to enable a hovering tooltip -->
-<script>
-$(document).ready(function(){
-    $('[data-toggle="tooltip1"]').tooltip();
-});
-</script>
+
+pdf("List of plots per page", width=13, height=5)
+print(plot1)
+print(plot2)
+# ...
+print(plot150)﻿
+dev.off()
+
 ```
 
-<p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' alt = 'Examples of data dashboards' /> </a> </p>
+Conveniently, all text in a PDF—even in plots—is indexed, so it can be searched [ Ctrl+f / Cmd+f / 🔍 ] (see [example](https://osf.io/2tpxn/)). Furthermore, you may also [merge the rendered PDF with any other documents](http://www.ilovepdf.com/).
 
-*Prerequisites for participation in each workshop:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein. 
+#### Prerequisites and suggestions for participation in each workshop
 
-*Further recommended preparation:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
+*Necessary:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 
+*Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
 
 ### Hackathons: creating reproducible documents and dashboards
 
@@ -141,9 +167,11 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 - **Output**: A key aspect of these meet-ups is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, a citation-based licence can be attached to the code.
 
-*Prerequisites for participation:* Basic knowledge of reproducible documents or dashboards. 
+#### Prerequisites and suggestions for participation in hackathons
 
-*Further recommended preparation:* Familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
+*Necessary:* Basic knowledge of reproducible documents or dashboards. 
+
+*Recommended:* Familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
 
 ## Contact 
 

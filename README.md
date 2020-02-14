@@ -155,9 +155,10 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 *Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
 
+
 ### Hackathons: creating reproducible documents and dashboards
 
-In these coding meet-ups, participants collaborate to create reproducible documents or dashboards using the data and software they prefer. 
+In these coding meet-ups, participants collaborate to create reproducible documents or dashboards using the data and software they prefer. Since the work can be split across different people and sections, some nice products may be achieved within a session.
 
 - **Data used**: Academic or non-academic data of your own, or open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
 

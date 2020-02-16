@@ -1,4 +1,4 @@
-# *Data is present:* [workshops](#r-workshops) and [hackathons](#hackathons-creating-reproducible-documents-and-dashboards)
+# *Data is present:* [workshops](#r-workshops) and [datathons](#datathons-creating-reproducible-documents-and-dashboards)
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
@@ -22,7 +22,7 @@ Programs such as [R](https://www.r-project.org/about.html) and [Python](https://
 
 ## Activities
 
-Activities comprise free **workshops in R** and [**hackathons**](#hackathons-creating-reproducible-documents-and-dashboards) in which any software may be used.
+Activities comprise free **workshops in R** and [**datathons**](#datathons-creating-reproducible-documents-and-dashboards) in which any software may be used.
 
 ### R workshops
 

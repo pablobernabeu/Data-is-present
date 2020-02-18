@@ -4,8 +4,8 @@
 
 ### Calendar
 
-| Date         | Activity                      | Location           | Register   | Funding      |
-| :----------: | ----------------------------- | ------------------ | :------------: | ------------ |
+| Date         | Activity                      | Location           | Registration   | Funding |
+| :----------: | ----------------------------- | ------------------ | :------------: | ------- |
 | 27 July 2020 | [Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), U. Birmingham | [Link](https://www.ukclc2020.com/registration) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme)      |
 
 ### Background

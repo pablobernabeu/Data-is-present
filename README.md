@@ -138,7 +138,7 @@ Memory and traffic limits of the free shinyapps.io account can sometimes present
 
         ```
         
-        pdf("List of plots per page", width=13, height=5)
+        pdf('List of plots per page', width = 13, height = 5)
         print(plot1)
         print(plot2)
         # ...

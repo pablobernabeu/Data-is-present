@@ -166,7 +166,7 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 - **Purposes**: 
 
-  - to visualise data in novel ways, collaboratively, and using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture.
+  - to visualise data in novel ways, collaboratively, and using reproducible documents or interactive dashboards. Sometimes, analysts may also draw on additional data to look at a bigger picture;
   
   - to briefly reflect on the process by reviewing the techniques applied and challenges encountered.
 

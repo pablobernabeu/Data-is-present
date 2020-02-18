@@ -130,11 +130,11 @@ App providers have specific terms of use. To begin, [shinyapps.io](https://www.s
 
 Memory and traffic limits of the free shinyapps.io account can sometimes present problems when heavy data data sets are used, or there are many visits to the app. The memory overload issue is often flagged as `Shiny cannot use on-disk bookmarking`, whereas excessive traffic may see the app not loading. Fortunately, usage limits need not always require a paid subscription or a [custom server](https://www.r-bloggers.com/alternative-approaches-to-scaling-shiny-with-rstudio-shiny-server-shinyproxy-or-custom-architecture/), thanks to the following workarounds:
 
-- Develop app locally as far as possible, and only deploy to shinyapps.io only at the last stage;
-- Prune data set, leaving only the necessary data;
-- If necessary, unlink data by splitting it into different sets, reducing computational demands;
-- If necessary, use various apps (five are allowed in each free shinyapps.io account);
-- If necessary, link from the app to a PDF with visualisations requiring heavy, interlinked data. High-resolution plots can be rendered into a PDF document in a snap, using code such as below:
+- develop app locally as far as possible, and only deploy to shinyapps.io only at the last stage;
+- prune data set, leaving only the necessary data;
+- if necessary, unlink data by splitting it into different sets, reducing computational demands;
+- if necessary, use various apps (five are allowed in each free shinyapps.io account);
+- if necessary, link from the app to a PDF with visualisations requiring heavy, interlinked data. High-resolution plots can be rendered into a PDF document in a snap, using code such as below:
 
 ```
 

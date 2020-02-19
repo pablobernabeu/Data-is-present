@@ -4,10 +4,10 @@
 
 ### Calendar
 
-| Date         | Activity                           | Event and location           | Registration   | Funding |
-| :----------: | ---------------------------------- | ---------------------------- | :------------: | ------- |
-| 27 July 2020 | [R Workshop](https://www.ukclc2020.com/pre-conference)    | [UK Cognitive Linguistics Conference (pre-conference day)](https://www.ukclc2020.com/), U. Birmingham | [Link](https://www.ukclc2020.com/registration) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme)      |
-| 25 Aug 2020 | [R Workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development (pre-conference day)](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster U. | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | NA      |
+| Date  | Activity | Event and location   | Registration   | Participants' funding | Organisation funding |
+| :---: | -------- | -------------------- | :------------: | --------------------- |--------------------- |
+| 27 July 2020 | [R Workshop](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), U. Birmingham | [Link](https://www.ukclc2020.com/registration) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) | NA |
+| 25 Aug 2020 | [R Workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster U. | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | Not required | To be confirmed |
 
 ### Background
 

@@ -13,7 +13,7 @@
 [¹]:#-note-one
 
 ###### ² No funding required by workshop conductor.
-[¹]:#-note-two
+[²]:#-note-two
 
 ### Background
 

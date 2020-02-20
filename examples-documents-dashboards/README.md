@@ -8,31 +8,27 @@ If you would like to submit any examples of your own, please [post an issue](htt
 
 ### Flexdashboard format
 
-- Dutch Modality Exclusivity Norms
-
-  - [Dashboard](https://rpubs.com/pcbernabeu/Dutch-Modality-Exclusivity-Norms)
+- [Dutch Modality Exclusivity Norms](https://rpubs.com/pcbernabeu/Dutch-Modality-Exclusivity-Norms)
   
   - [RStudio environment](https://mybinder.org/v2/gh/pablobernabeu/Modality-exclusivity-norms-747-Dutch-English-replication/master?urlpath=rstudio)
+  
+- [Butterfly species richness in Los Angeles](https://rpubs.com/pcbernabeu/Butterfly-species-richness-in-LA)
 
-- The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise
+  - [RStudio environment](https://mybinder.org/v2/gh/pablobernabeu/Data-is-present/master?urlpath=rstudio)
 
-  - [Dashboard](https://rpubs.com/pcbernabeu/Louisiana-Minnesota-Dallas-crisis)
+- [The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise](https://rpubs.com/pcbernabeu/Louisiana-Minnesota-Dallas-crisis)
 
 
 ### Shiny format
 
-- Modality switch effects emerge early and increase throughout conceptual processing: evidence from ERPs
+- [Modality switch effects emerge early and increase throughout conceptual processing: evidence from ERPs](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/)
 
-  - [Dashboard](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/)
-  
   - [RStudio environment](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=rstudio)
 
 
 ### Flexdashboard-Shiny format
 
-- Dashboard: Dutch modality exclusivity norms
-
-  - [Dashboard](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/)
+- [Dashboard: Dutch modality exclusivity norms](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/)
   
   - [RStudio environment](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/)
   

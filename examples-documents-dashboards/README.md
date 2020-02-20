@@ -34,3 +34,7 @@ Some examples of what can be created after the [workshops](https://github.com/pa
   
   - [RStudio environment](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/)
   
+  
+-------------
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br />Work licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. Linked-to content is independent.

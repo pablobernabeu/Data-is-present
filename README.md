@@ -12,7 +12,7 @@
 ###### ¹ No attendance funding known to workshop conductor.
 [¹]:#-note-one
 
-###### ² No funding required by workshop conductor.
+###### ² No funding requested by workshop conductor.
 [²]:#-note-two
 
 ### Background

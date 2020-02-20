@@ -7,13 +7,13 @@
 | Date  | Activity | Event and location   | Registration   | Attendance funding | Organisation funding |
 | :---: | -------- | -------------------- | :------------: | ------------------ |--------------------- |
 | 27 July 2020 | [R workshop](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham | [Link](https://www.ukclc2020.com/registration) | NA [¹] | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| 25 Aug 2020 | [R workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | NA [¹] | Not required [¹] |
+| 25 Aug 2020 | [R workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | NA [¹] | Not required [²] |
 
 ###### ¹ No attendance funding known to workshop conductor.
 [¹]:#-note-one
 
-###### ¹ No funding required by workshop conductor.
-[¹]:#-note-one
+###### ² No funding required by workshop conductor.
+[¹]:#-note-two
 
 ### Background
 

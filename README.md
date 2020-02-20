@@ -161,7 +161,7 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 ### Datathons: creating reproducible documents and dashboards
 
-In these coding meet-ups, participants collaborate to create reproducible documents or dashboards using the data and software they prefer. Since the work can be split across different people and sections, some nice products may be achieved within a session.
+In these coding meet-ups, participants collaborate to create reproducible documents or dashboards using the data and software they prefer (see [examples](https://github.com/pablobernabeu/Data-is-present/tree/master/examples-documents-dashboards)). Since the work can be split across different people and sections, some nice products may be achieved within a session.
 
 - **Data used**: Academic or non-academic data of your own, or open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
 

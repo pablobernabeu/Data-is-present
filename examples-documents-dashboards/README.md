@@ -15,8 +15,6 @@ Some examples of what can be created after the [workshops](https://github.com/pa
 - The Louisiana-Minnesota-Dallas crisis across media and time: a big data exercise
 
   - [Dashboard](https://rpubs.com/pcbernabeu/Louisiana-Minnesota-Dallas-crisis)
-  
-  - [RStudio online]()
 
 
 ### Shiny format

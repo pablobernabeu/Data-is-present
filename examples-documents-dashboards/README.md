@@ -1,6 +1,8 @@
 # Examples of reproducible documents and data dashboards
 
-Some examples of what can be created after the [workshops](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#r-workshops), or at the [datathons](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#datathons-creating-reproducible-documents-and-dashboards), are available as attachments and in the links below. If you would like to submit your own, please [post an issue](https://github.com/pablobernabeu/Data-is-present/issues) or email p.bernabeu@lancaster.ac.uk.
+These are examples of the kinds of documents that can be created with the skills learnt at the [workshops](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#r-workshops). The [datathons](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#datathons-creating-reproducible-documents-and-dashboards) will put these skills into practice (participants welcome to either or both).
+
+If you would like to submit your own, please [post an issue](https://github.com/pablobernabeu/Data-is-present/issues) or email p.bernabeu@lancaster.ac.uk.
 
 ## Data dashboards
 

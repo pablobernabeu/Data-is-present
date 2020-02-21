@@ -1,6 +1,6 @@
 ---
 title: '&nbsp; &nbsp; &nbsp; Butterfly species richness in LA: various sources'
-author: "&nbsp; &nbsp; <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Butterfly-species-richness-in-LA.Rmd' style='color:#FDFFE4; font-size:15px; font-family: Courier New, Courier, monospace' target='_top'> code </a> &nbsp; &nbsp; &nbsp; &nbsp;"
+author: '&nbsp; &nbsp; <a href="https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Butterfly-species-richness-in-LA.Rmd" target="_blank" style="color:#FDFFE4; font-size:15px; font-family: Courier New, Courier, monospace"> code </a> &nbsp; &nbsp; &nbsp; &nbsp;'
 output:
   flexdashboard::flex_dashboard:
     theme: cerulean
@@ -30,7 +30,7 @@ vertical_layout: scroll
 
 /* unvisited link */
 a:link {
-  color: #1B3085;
+  color: #1A74C7;
   }
 
 /* visited link */
@@ -173,7 +173,7 @@ iNaturalist[,'source'] = 'iNaturalist'
 iNaturalist$site = paste0(iNaturalist$latitude, ', ', iNaturalist$longitude)
 
 # The iNaturalist data set presents a challenge slightly different from the pseudovariables found above.
-# The number of individuals of each butterfly species must be computed from repeated entries, per site.
+# The number of animals of each species must be computed from repeated entries, per site.
 
 iNaturalist = merge(iNaturalist, iNaturalist %>% count(species, site, name = 'Number'))
 
@@ -220,10 +220,10 @@ wingspan$wingspan_mm = rowMeans(wingspan[,c('opler.wright.min', 'opler.wright.ma
 
 dat = merge(dat, wingspan[, c('Species', 'wingspan_mm')], all.x = TRUE)
 
-# Compute number of individuals per species in each site, across collection methods
+# Compute number of animals per species in each site, across collection methods
 dat = merge(dat, dat %>% count(Species, site, name = 'N_per_species_and_site'))
 
-# Compute number of individuals per species and per collection method, across sites
+# Compute number of animals per species and per collection method, across sites
 
 dat = merge(dat,
             dat[dat$Method_source=='crowdsourcing (iNaturalist)',] %>%
@@ -237,7 +237,7 @@ dat = merge(dat,
             dat[dat$Method_source=='malaise trap (BioScan)',] %>%
               count(Species, name = 'N_malaise_trap_BioScan'), all=TRUE)
 
-# Compute number of individuals per species
+# Compute number of animals per species
 dat = merge(dat, dat %>% count(Species, name = 'N_per_species'))
 
 # Replace NAs with zeros
@@ -323,40 +323,6 @@ dat[dat$Species=='Vanessa_annabella', 'image_licence_map'] = "<a target='_top' h
 dat[dat$Species=='Vanessa_atalanta', 'image_licence_map'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Red_Admiral_(Vanessa_atalanta)_on_ivy_-_geograph.org.uk_-_1519665.jpg'>Andrew Curtis (CC Attribution)</a>"
 dat[dat$Species=='Vanessa_cardui', 'image_licence_map'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:0_Belle-dame_(Vanessa_cardui)_-_Echinacea_purpurea_-_Havr%C3%A9_(3).jpg'>Jean-Pol GRANDMONT (CC Attribution)</a>"
 
-# Image licences for table (in two lines)
-
-dat[dat$Species=='Adelpha_bredowii', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Adelpha_californica#/media/File:California_Sister_Yosemite.jpg'>Joe Littlejohn<br>(CC Attribution)</a>"
-dat[dat$Species=='Agraulis_vanillae', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Gulf_fritillary#/media/File:Agraulis_vanillae_butterfly_from_above.JPG'>Korall<br>(CC Attribution)</a>"
-dat[dat$Species=='Brephidium_exilis', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Pygmy_blue_(Brephidium_exilis_thompsoni)_2.JPG'>	
-Charles J Sharp<br>(CC Attribution)</a>"
-dat[dat$Species=='Colias_eurytheme', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Colias_eurytheme#/media/File:ColiasEurytheme01.jpg'>Greg Hume<br>(CC Attribution)</a>"
-dat[dat$Species=='Danaus_gilippus', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Queen_(butterfly)#/media/File:Queen_(Danaus_gilippus_berenice).JPG'>Charles J Sharp<br>(CC Attribution)</a>"
-dat[dat$Species=='Danaus_plexippus', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Monarch_butterfly#/media/File:Monarch_In_May.jpg'>Kenneth Dwain Harrelson<br>(CC Attribution)</a>"
-dat[dat$Species=='Erynnis_funeralis', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Erynnis_funeralis#/media/File:Erynnis_funeralis_7919.JPG'>Walter Siegmund<br>(CC Attribution)</a>"
-dat[dat$Species=='Heliopetes_ericetorum', 'image_licence_table'] = "<a target='_top' href='https://no.wikipedia.org/wiki/Heliopetes#/media/Fil:Turks-cap_white-skipper_(Heliopetes_macaira)_male_+_female_dorsal.jpg'>Anne Toal<br>(CC Attribution)</a>"
-dat[dat$Species=='Hylephila_phyleus', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Fiery_Skipper_(Hylephila_phyleus)_%E2%99%82_(7898971392).jpg'>Bob Peterson<br>(CC Attribution)</a>"
-dat[dat$Species=='Icaricia_acmon', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Acmon_blue#/media/File:Plebejus_acmon2.jpg'>Calibas<br>(CC Attribution)</a>"
-dat[dat$Species=='Junonia_coenia', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Buckeye_Butterfly_(Junonia_coenia).png'>Dr!ppy<br>(CC Attribution)</a>"
-dat[dat$Species=='Leptotes_marina', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Marine_blue_(Leptotes_marina).jpg'>Anne Toal<br>(CC Attribution)</a>"
-dat[dat$Species=='Lerodea_eufala', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Eufala_Skipper_-_Lerodea_eufala_(26286865559).jpg'>gailhampshire<br>(CC Attribution)</a>"
-dat[dat$Species=='Limenitis_lorquini', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Lorquin%27s_admiral#/media/File:Lorquinsadmiral2.jpg'>Calibas<br>(CC Attribution)</a>"
-dat[dat$Species=='Nathalis_iole', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Nathalis_iole#/media/File:Nathalis_iole1.jpg'>Tom Peterson<br>(CC Attribution)</a>"
-dat[dat$Species=='Nymphalis_antiopa', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Nymphalis_antiopa#/media/File:%D0%9D%D0%B8%D0%BC%D1%84%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%BE%D0%BF%D0%B0,_%D1%82%D1%80%D0%B0%D1%83%D1%80%D0%BD%D0%B8%D1%86%D0%B0.jpg'>Milantina<br>(CC Attribution)</a>"
-dat[dat$Species=='Ochlodes_sylvanoides', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Ochlodes#/media/File:XN_Ochlodes_sylvanus_02.jpg'>Guido Gerding<br>(CC Attribution)</a>"
-dat[dat$Species=='Papilio_eurymedon', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Papilio_eurymedon#/media/File:Papilio_eurymedon_000.jpg'>NA<br>(CC Attribution)</a>"
-dat[dat$Species=='Papilio_rumiko', 'image_licence_table'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Papilio_rutulus#/media/File:Wtigerswallowtail.JPG'>Calibas<br>(CC Attribution)</a>"
-dat[dat$Species=='Papilio_rutulus', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Anise_swallowtail.jpg'>Calibas<br>(CC Attribution)</a>"
-dat[dat$Species=='Papilio_zelicaon', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Anise_swallowtail.jpg'>Calibas<br>(CC Attribution)</a>"
-dat[dat$Species=='Phoebis_sennae', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Cloudless_sulphur_(Phoebis_sennae_sennae)_male_underside.JPG'>Charles J Sharp<br>(CC Attribution)</a>"
-dat[dat$Species=='Pieris_rapae', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Butterfly_Small_White_-_Pieris_rapae_05-1.jpg'>Zeynel Cebeci<br>(CC Attribution)</a>"
-dat[dat$Species=='Poanes_melane', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Poanes_melane_(9082154246).jpg'>Donald Hobern<br>(CC Attribution)</a>"
-dat[dat$Species=='Pontia_protodice', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Male_Checkered_White,_Megan_McCarty124.jpg'>Megan McCarty<br>(CC Attribution)</a>"
-dat[dat$Species=='Pyrgus_albescens', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:White_checkered-skipper_(Pyrgus_albescens)_dorsal.jpg'>Anne Toal<br>(CC Attribution)</a>"
-dat[dat$Species=='Strymon_melinus', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Strymon.melinus.01.jpg'>Anita Gould<br>(CC Attribution)</a>"
-dat[dat$Species=='Vanessa_annabella', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Marzahn_Gaerten_der_Welt_08-2015_img12_Red_Admiral.jpg'>A.Savin<br>(CC Attribution)</a>"
-dat[dat$Species=='Vanessa_atalanta', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Red_Admiral_(Vanessa_atalanta)_on_ivy_-_geograph.org.uk_-_1519665.jpg'>Andrew Curtis<br>(CC Attribution)</a>"
-dat[dat$Species=='Vanessa_cardui', 'image_licence_table'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:0_Belle-dame_(Vanessa_cardui)_-_Echinacea_purpurea_-_Havr%C3%A9_(3).jpg'>Jean-Pol GRANDMONT<br>(CC Attribution)</a>"
-
 ```
 
 
@@ -367,17 +333,23 @@ Sampling sites
 Column
 -----------------------------------------------------------------------
 
-### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target='_top'> Open data</a> ([iNaturalist](https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv){style='target:_top;'} and [BioScan](https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv){style='target:_top;'}) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target='_top'> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by [Pablo Bernabeu](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md){style='target:_top;'}. Searchable [OSM](https://www.tandfonline.com/doi/abs/10.3846/20296991.2016.1160493){style='target:_top;'} map. Hide toolbars at lower right corner.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
+### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target='_top'> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target='_top'>iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target='_top'>BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target='_top'> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target='_top'>Pablo Bernabeu</a>. Searchable <a href='https://www.tandfonline.com/doi/abs/10.3846/20296991.2016.1160493' target='_top'>OSM</a> map. Hide toolbars at lower right.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
 
 ```{r}
 
-# Format hyperlink to image_link
-dat$image_hyperlink = paste0("<a target='_top' href=", dat$image_link, "><img style='max-width:350px; width:100%;' src='", dat$image_link, "' alt='", gsub("_", " ", dat$Species), "'></a>")
+# Create image linked to corresponding Google Image
+dat$image_with_hyperlink = paste0("<a target='_top' href=", dat$image_link, "><img style='display: block; margin-left: auto; margin-right: auto; max-height:150px;' src='",
+                             dat$image_link, "' alt='", gsub("_", " ", dat$Species), "'></a>")
 
-# Create links to Google image_links and append to species names, to be shown in pop-ups
-dat$Species_link = paste0("<img style='max-height:100px; width:100%; display: block; margin-left: auto; margin-right: auto; width: 50%;' src='", dat$image_link, "' alt='", gsub("_", " ", dat$Species), "'>", '<br><b>', gsub('_', ' ', dat$Species), "</b>. <i>n</i> = ", dat$Number, ' at this site. Sampling: ', dat$Method_source, ". <a href='https://www.google.com/search?q=", gsub('_', '+', dat$Species), "+butterfly' target='_top'>Search further</a>. Image licence: ", dat$image_licence_map, ".")
+# FOrmat species into hyperlink
+dat$Species_hyperlink = paste0("<span style='font-size:16px;'><a href='https://www.google.com/search?q=",
+                               gsub('_', '+', dat$Species), "+butterfly' style='text-decoration: none;' target='_top'>",
+                               gsub('_', ' ', dat$Species), '</a></span>')
 
-# Since individuals of different data methods and sources may overlap in the same spot, 
+# Create links to Google images and append to species names, to be shown in pop-ups
+dat$map_popup = paste0(dat$image_with_hyperlink, '<br>', dat$Species_hyperlink, ". <i>n</i> = ", dat$Number, ' at this site. Sampling: ', dat$Method_source, ". <a href='https://www.google.com/search?q=", gsub('_', '+', dat$Species), "+butterfly' target='_top'>Search further</a>. Image licence: ", dat$image_licence_map, ".")
+
+# Since animals observed through different methods and sources may overlap in the same spot,
 # jitter coordinates a bit.
 
 dat$Latitude <- jitter(dat$Latitude, factor = 2250)
@@ -407,7 +379,7 @@ html_legend = "<p style='font-size=18px; text-align:center; border-bottom:1px so
 leaflet(dat) %>% addTiles() %>%
   addMarkers(~Longitude, ~Latitude, icon = leafIcons,
              label = ~as.character(paste(dat$Number, gsub('_', ' ', dat$Species))),
-             popup = ~as.character(dat$Species_link),
+             popup = ~as.character(dat$map_popup),
              labelOptions = labelOptions(style = list("font-size" = "16px"))) %>%
   addControl(html = html_legend, position = "bottomright") %>%
   addResetMapButton() %>% addSearchOSM
@@ -427,7 +399,7 @@ leaflet(dat) %>% addTiles() %>%
 #   purrr::Walk( function(df){
 #     l <<- l %>%
 #       addMarkers(data = dat.df[[df]], ~Longitude, ~Latitude, icon = leafIcons, group = df,
-#                  label = ~as.character(gsub('_', ' ', dat$Species)), popup = ~as.character(dat$Species_link),
+#                  label = ~as.character(gsub('_', ' ', dat$Species)), popup = ~as.character(dat$map_popup),
 #                           labelOptions = labelOptions(noHide = F, direction = 'auto'))
 #     })
 # 
@@ -446,28 +418,65 @@ Species details {style="background-color: #FCFCFC;"}
 Column {style="data-width:100%; position:static; height:1000px;"}
 -----------------------------------------------------------------------
 
-### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target='_top'> Open data</a> ([iNaturalist](https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv){style='target:_top;'} and [BioScan](https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv){style='target:_top;'}) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target='_top'> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by [Pablo Bernabeu](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md){style='target:_top;'}. Hide toolbars at lower right corner.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
+### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target="_blank"> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target="_blank">iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target="_blank">BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target="_blank"> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target="_blank">Pablo Bernabeu</a>. Hide toolbars at lower right.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
 
 ```{r}
 
+# Image licences for table (in two lines)
+
+dat[dat$Species=='Adelpha_bredowii', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Adelpha_californica#/media/File:California_Sister_Yosemite.jpg">Joe Littlejohn<br>(CC Attribution)</a>'
+dat[dat$Species=='Agraulis_vanillae', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Gulf_fritillary#/media/File:Agraulis_vanillae_butterfly_from_above.JPG">Korall<br>(CC Attribution)</a>'
+dat[dat$Species=='Brephidium_exilis', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Pygmy_blue_(Brephidium_exilis_thompsoni)_2.JPG">	
+Charles J Sharp<br>(CC Attribution)</a>'
+dat[dat$Species=='Colias_eurytheme', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Colias_eurytheme#/media/File:ColiasEurytheme01.jpg">Greg Hume<br>(CC Attribution)</a>'
+dat[dat$Species=='Danaus_gilippus', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Queen_(butterfly)#/media/File:Queen_(Danaus_gilippus_berenice).JPG">Charles J Sharp<br>(CC Attribution)</a>'
+dat[dat$Species=='Danaus_plexippus', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Monarch_butterfly#/media/File:Monarch_In_May.jpg">Kenneth Dwain Harrelson<br>(CC Attribution)</a>'
+dat[dat$Species=='Erynnis_funeralis', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Erynnis_funeralis#/media/File:Erynnis_funeralis_7919.JPG">Walter Siegmund<br>(CC Attribution)</a>'
+dat[dat$Species=='Heliopetes_ericetorum', 'image_licence_table'] = '<a target="_blank" href="https://no.wikipedia.org/wiki/Heliopetes#/media/Fil:Turks-cap_white-skipper_(Heliopetes_macaira)_male_+_female_dorsal.jpg">Anne Toal<br>(CC Attribution)</a>'
+dat[dat$Species=='Hylephila_phyleus', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Fiery_Skipper_(Hylephila_phyleus)_%E2%99%82_(7898971392).jpg">Bob Peterson<br>(CC Attribution)</a>'
+dat[dat$Species=='Icaricia_acmon', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Acmon_blue#/media/File:Plebejus_acmon2.jpg">Calibas<br>(CC Attribution)</a>'
+dat[dat$Species=='Junonia_coenia', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Buckeye_Butterfly_(Junonia_coenia).png">Dr!ppy<br>(CC Attribution)</a>'
+dat[dat$Species=='Leptotes_marina', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Marine_blue_(Leptotes_marina).jpg">Anne Toal<br>(CC Attribution)</a>'
+dat[dat$Species=='Lerodea_eufala', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Eufala_Skipper_-_Lerodea_eufala_(26286865559).jpg">gailhampshire<br>(CC Attribution)</a>'
+dat[dat$Species=='Limenitis_lorquini', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Lorquin%27s_admiral#/media/File:Lorquinsadmiral2.jpg">Calibas<br>(CC Attribution)</a>'
+dat[dat$Species=='Nathalis_iole', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Nathalis_iole#/media/File:Nathalis_iole1.jpg">Tom Peterson<br>(CC Attribution)</a>'
+dat[dat$Species=='Nymphalis_antiopa', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Nymphalis_antiopa#/media/File:%D0%9D%D0%B8%D0%BC%D1%84%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%BE%D0%BF%D0%B0,_%D1%82%D1%80%D0%B0%D1%83%D1%80%D0%BD%D0%B8%D1%86%D0%B0.jpg">Milantina<br>(CC Attribution)</a>'
+dat[dat$Species=='Ochlodes_sylvanoides', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Ochlodes#/media/File:XN_Ochlodes_sylvanus_02.jpg">Guido Gerding<br>(CC Attribution)</a>'
+dat[dat$Species=='Papilio_eurymedon', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Papilio_eurymedon#/media/File:Papilio_eurymedon_000.jpg">NA<br>(CC Attribution)</a>'
+dat[dat$Species=='Papilio_rumiko', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Papilio_rutulus#/media/File:Wtigerswallowtail.JPG">Calibas<br>(CC Attribution)</a>'
+dat[dat$Species=='Papilio_rutulus', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Anise_swallowtail.jpg">Calibas<br>(CC Attribution)</a>'
+dat[dat$Species=='Papilio_zelicaon', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Anise_swallowtail.jpg">Calibas<br>(CC Attribution)</a>'
+dat[dat$Species=='Phoebis_sennae', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Cloudless_sulphur_(Phoebis_sennae_sennae)_male_underside.JPG">Charles J Sharp<br>(CC Attribution)</a>'
+dat[dat$Species=='Pieris_rapae', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Butterfly_Small_White_-_Pieris_rapae_05-1.jpg">Zeynel Cebeci<br>(CC Attribution)</a>'
+dat[dat$Species=='Poanes_melane', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Poanes_melane_(9082154246).jpg">Donald Hobern<br>(CC Attribution)</a>'
+dat[dat$Species=='Pontia_protodice', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Male_Checkered_White,_Megan_McCarty124.jpg">Megan McCarty<br>(CC Attribution)</a>'
+dat[dat$Species=='Pyrgus_albescens', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:White_checkered-skipper_(Pyrgus_albescens)_dorsal.jpg">Anne Toal<br>(CC Attribution)</a>'
+dat[dat$Species=='Strymon_melinus', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Strymon.melinus.01.jpg">Anita Gould<br>(CC Attribution)</a>'
+dat[dat$Species=='Vanessa_annabella', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Marzahn_Gaerten_der_Welt_08-2015_img12_Red_Admiral.jpg">A.Savin<br>(CC Attribution)</a>'
+dat[dat$Species=='Vanessa_atalanta', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Red_Admiral_(Vanessa_atalanta)_on_ivy_-_geograph.org.uk_-_1519665.jpg">Andrew Curtis<br>(CC Attribution)</a>'
+dat[dat$Species=='Vanessa_cardui', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:0_Belle-dame_(Vanessa_cardui)_-_Echinacea_purpurea_-_Havr%C3%A9_(3).jpg">Jean-Pol GRANDMONT<br>(CC Attribution)</a>'
+
+# Format image
+dat$image_with_hyperlink = paste0('<a target="_blank" href=', dat$image_link, '><img style="max-width:350px; width:100%;" src="',
+                             dat$image_link, '" alt=', gsub('_', ' ', dat$Species), '"></a>"')
+
 # Format text
 
-dat$Species = paste0("<span style=font-size:16px;'>", dat$Species, '</span>')
-dat$wingspan_mm = paste0("<span style=font-size:16px;'>", dat$wingspan_mm, '</span>')
-dat$N_crowdsourcing_iNaturalist = paste0("<span style=font-size:16px;'>", dat$N_crowdsourcing_iNaturalist, '</span>')
-dat$N_Pollard_Walk_BioScan = paste0("<span style=font-size:16px;'>", dat$N_Pollard_Walk_BioScan, '</span>')
-dat$N_malaise_trap_BioScan = paste0("<span style=font-size:16px;'>", dat$N_malaise_trap_BioScan, '</span>')
-dat$N_per_species = paste0("<span style=font-size:16px;'>", dat$N_per_species, '</span>')
-dat$image_licence_table = paste0("<span style=font-size:15px;'>", dat$image_licence_table, '</span>')
+dat$Species_hyperlink = dat$Species_hyperlink = paste0('<span style="font-size:21px;"><a href="https://www.google.com/search?q=',
+                                                       gsub('_', '+', dat$Species),
+                                                       '+butterfly" style="text-decoration: none;" target="_blank">',
+                                                       gsub('_', ' ', dat$Species), '</a></span>')
+dat$wingspan_mm = paste0('<span style=font-size:16px;">', dat$wingspan_mm, '</span>')
+dat$N_crowdsourcing_iNaturalist = paste0('<span style=font-size:16px;">', dat$N_crowdsourcing_iNaturalist, '</span>')
+dat$N_Pollard_Walk_BioScan = paste0('<span style=font-size:16px;">', dat$N_Pollard_Walk_BioScan, '</span>')
+dat$N_malaise_trap_BioScan = paste0('<span style=font-size:16px;">', dat$N_malaise_trap_BioScan, '</span>')
+dat$N_per_species = paste0('<span style=font-size:16px;">', dat$N_per_species, '</span>')
+dat$image_licence_table = paste0('<span style=font-size:15px;">', dat$image_licence_table, '</span>')
 
 # Aggregate data by variables to be shown on table
 
-species_dat = dat %>% group_by(image_hyperlink,
-                               Species = paste0('<a href="https://www.google.com/search?q=',
-                                                gsub('_', '+', dat$Species), '+', ' butterfly" target="_top">',
-                                                gsub('_', ' ', dat$Species),'</a>'),
-                               wingspan_mm, N_crowdsourcing_iNaturalist,  N_Pollard_Walk_BioScan, 
-                               N_malaise_trap_BioScan, N_per_species, image_licence_table) %>%
+species_dat = dat %>% group_by(image_with_hyperlink, Species = Species_hyperlink, wingspan_mm, N_crowdsourcing_iNaturalist,  
+                               N_Pollard_Walk_BioScan, N_malaise_trap_BioScan, N_per_species, image_licence_table) %>%
   dplyr::count()
 
 # Create function to have tooltips on column titles (from https://glin.github.io/reactable/articles/cookbook/cookbook.html)
@@ -480,17 +489,18 @@ reactable(species_dat[-9],  # Take out last the row corresponding to `dplyr::cou
           style = list(fontFamily = 'Work Sans, sans-serif', fontSize = '16px'),
           pagination = FALSE, highlight = TRUE, height = 840, fullWidth = TRUE,
           columns = list(
-            image_hyperlink = colDef(name = ' ', minWidth = 360, filterable = FALSE, sortable = FALSE, html = TRUE),
-            Species = colDef(minWidth = 180, filterable = TRUE, html = TRUE),
+            image_with_hyperlink = colDef(name = ' ', minWidth = 360, filterable = FALSE, sortable = FALSE, html = TRUE),
+            Species = colDef(minWidth = 220, filterable = TRUE, html = TRUE),
             image_licence_table = colDef(name = 'Image licence', minWidth = 210, filterable = TRUE, html = TRUE),
-            wingspan_mm = colDef(header = with_tooltip('Wingspan', "Average wingspan in millimeters")),
-            N_crowdsourcing_iNaturalist = colDef(minWidth = 155, header = with_tooltip('N crowdsourcing',
-                                                                       "Number of crowd-sourced observations (iNaturalist)")),
+            wingspan_mm = colDef(minWidth = 150, header = with_tooltip('Wingspan (mm)', 'Average wingspan in millimeters')),
+            N_crowdsourcing_iNaturalist = colDef(minWidth = 155, 
+                                                 header = with_tooltip('N crowdsourcing',
+                                                                                       'Number of crowd-sourced observations (iNaturalist)')),
             N_Pollard_Walk_BioScan = colDef(header = with_tooltip('N trained',
-                                                                  "Number of trained Pollard Walk observations (BioScan)")),
+                                                                  'Number of trained Pollard Walk observations (BioScan)')),
             N_malaise_trap_BioScan = colDef(header = with_tooltip('N experts',
-                                                                  "Number of expert identifications in malaise traps (BioScan)")),
-            N_per_species = colDef(name = 'N total')
+                                                                  'Number of expert identifications in malaise traps (BioScan)')),
+            N_per_species = colDef(name = 'N total', minWidth = 70)
           ))
 
 ```

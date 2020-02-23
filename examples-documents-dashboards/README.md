@@ -4,6 +4,10 @@ These are examples of the kinds of documents that can be created with the skills
 
 If you would like to submit any examples of your own, please [post an issue](https://github.com/pablobernabeu/Data-is-present/issues) or email p.bernabeu@lancaster.ac.uk.
 
+## Documents
+
+- [Various examples](https://rmarkdown.rstudio.com/gallery.html)
+
 ## Data dashboards
 
 ### Flexdashboard format

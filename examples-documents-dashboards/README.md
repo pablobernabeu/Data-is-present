@@ -12,7 +12,7 @@ If you would like to submit any examples of your own, please [post an issue](htt
 
 ### Flexdashboard format
 
-- [Dutch Modality Exclusivity Norms](https://rpubs.com/pcbernabeu/Dutch-Modality-Exclusivity-Norms)
+- [Dutch modality exclusivity norms](https://rpubs.com/pcbernabeu/Dutch-Modality-Exclusivity-Norms)
 
   - [Code](https://github.com/pablobernabeu/Modality-exclusivity-norms-Bernabeu-et-al/blob/master/Dutch-modality-exclusivity-norms-RPubs.Rmd)
 

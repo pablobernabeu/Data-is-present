@@ -6,7 +6,7 @@
 
 | Date  | Activity | Event and location   | Registration   | Attendance funding | Organisation funding |
 | :---: | -------- | -------------------- | :------------: | ------------------ |--------------------- |
-| 4 Apr 2020 | [R workshop](https://newcastle2020.satrdays.org/) | [satRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) | NA¹ | TBC |
+| 4 Apr 2020 | [R workshop](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) | NA¹ | TBC |
 | 27 July 2020 | [R workshop](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham | [Link](https://www.ukclc2020.com/registration) | NA¹ | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 25 Aug 2020 | [R workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | NA¹ | NA² |
 

@@ -1,6 +1,6 @@
 ---
 title: '&nbsp; &nbsp; &nbsp; Butterfly species richness in LA: various sources'
-author: '&nbsp; &nbsp; <a href="https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Butterfly-species-richness-in-LA.Rmd" target="_blank" style="color:#FDFFE4; font-size:15px; font-family: Courier New, Courier, monospace"> code </a> &nbsp; &nbsp; &nbsp; &nbsp;'
+author: '&nbsp; &nbsp; <a href="https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Dashboards/Flexdashboard/Butterfly-species-richness-in-LA.Rmd" target="_blank" style="color:#FDFFE4; font-size:15px; font-family: Courier New, Courier, monospace"> code </a> &nbsp; &nbsp; &nbsp; &nbsp;'
 output:
   flexdashboard::flex_dashboard:
     theme: cerulean

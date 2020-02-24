@@ -289,7 +289,7 @@ dat[dat$Species=='Vanessa_annabella', 'image_link'] = 'https://upload.wikimedia.
 dat[dat$Species=='Vanessa_atalanta', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/5/58/Red_Admiral_%28Vanessa_atalanta%29_on_ivy_-_geograph.org.uk_-_1519665.jpg'
 dat[dat$Species=='Vanessa_cardui', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/c/c8/0_Belle-dame_%28Vanessa_cardui%29_-_Echinacea_purpurea_-_Havr%C3%A9_%283%29.jpg'
 
-# Image licences for table (in two lines)
+# Image licences for map, in one line
 
 dat[dat$Species=='Adelpha_bredowii', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Adelpha_californica#/media/File:California_Sister_Yosemite.jpg'>Joe Littlejohn (CC Attribution)</a>"
 dat[dat$Species=='Agraulis_vanillae', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Gulf_fritillary#/media/File:Agraulis_vanillae_butterfly_from_above.JPG'>Korall (CC Attribution)</a>"
@@ -422,7 +422,7 @@ Column {style="data-width:100%; position:static; height:1000px;"}
 
 ```{r}
 
-# Image licences for table (in two lines)
+# Image licences for table, in two lines
 
 dat[dat$Species=='Adelpha_bredowii', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Adelpha_californica#/media/File:California_Sister_Yosemite.jpg">Joe Littlejohn<br>(CC Attribution)</a>'
 dat[dat$Species=='Agraulis_vanillae', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Gulf_fritillary#/media/File:Agraulis_vanillae_butterfly_from_above.JPG">Korall<br>(CC Attribution)</a>'

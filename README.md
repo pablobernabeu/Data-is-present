@@ -16,13 +16,13 @@
 
 This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers organisation costs on a [budget basis](https://www.software.ac.uk/fellowship-programme/2020/terms-and-conditions). If you would like to bring any of these events to your institution at no cost, please submit a request (see [Contact](#contact)).
 
-#### Open data
-
-Original data has become a [public good in many research fields](https://www.nature.com/articles/d41586-019-01506-x) thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Researchers inside and outside academia nowadays share a lot of their data under attribution licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any external analysts to access these raw data, create (additional) visualisations and analyses, and share these. In society, making data more accessible can [demonstrably benefit citizens](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1140&context=yhrdlj) (despite [limitations](https://firstmonday.org/ojs/index.php/fm/article/view/3316/2764#author)).
-
 #### Open-source software
 
 Programming languages such as [R](https://www.r-project.org/about.html) or [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
+
+#### Open data
+
+Original data has become a [public good in many research fields](https://www.nature.com/articles/d41586-019-01506-x) thanks to cultural and technological advances. On the internet, we can find innumerable data sets from sources such as scientific journals and repositories (e.g., [OSF](https://osf.io)), local and national governments (e.g., [London](https://data.london.gov.uk/), UK [[1](https://www.ukdataservice.ac.uk/), [2](https://data.gov.uk/)]), non-governmental organisations (e.g., [data.world](https://data.world/datasets/ngo)), etc. Researchers inside and outside academia nowadays share a lot of their data under attribution licences (e.g., [Creative Commons](https://creativecommons.org/), the UK [Open Government Licence](http://www.nationalarchives.gov.uk/doc/open-government-licence/version/1/), etc.). This allows any external analysts to access these raw data, create (additional) visualisations and analyses, and share these. In society, making data more accessible can [demonstrably benefit citizens](https://digitalcommons.law.yale.edu/cgi/viewcontent.cgi?article=1140&context=yhrdlj) (despite [limitations](https://firstmonday.org/ojs/index.php/fm/article/view/3316/2764#author)).
 
 ## Activities
 
@@ -30,7 +30,7 @@ Activities comprise free **workshops in R** and [**datathons**](#datathons-creat
 
 ### R workshops
 
-[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops in R are available that cover a suite of interrelated tools—R Markdown, data dashboards and Binder environments—underlain by freeware and reproducible workflows.
+[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops are offered that cover a suite of interrelated tools—R, R Markdown, data dashboards and Binder environments—, all underlain by freeware and reproducible workflows.
 
 Each workshop includes **taught and practical sections**. The level of taught sections is largely tailored to the audience. Similarly, the practical sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session. 
 

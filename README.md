@@ -184,7 +184,7 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 ## Contact 
 
-Please submit any queries or requests by [posting an issue](https://github.com/pablobernabeu/Data-is-present/issues) or by emailing p.bernabeu@lancaster.ac.uk.
+Please submit any queries or requests by [posting an issue](https://github.com/pablobernabeu/Data-is-present/issues) or emailing p.bernabeu@lancaster.ac.uk.
 
 -------------
 

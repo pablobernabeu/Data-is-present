@@ -63,7 +63,7 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 
 #### Workshop 2: R Markdown documents
 
-Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `bookdown`, `blogdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
+Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `bookdown`, `bookdownplus`, `blogdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
 
 <p align = 'center'> <a href = 'https://github.com/rstudio/pagedown'> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' alt = 'Example of pagedown-created document (image retrieved from R pagedown package)'/> </a> <p align = 'center' style = 'text-align:center;'> Image from pagedown package (https://github.com/rstudio/pagedown). </p> </p>
 

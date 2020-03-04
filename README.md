@@ -5,8 +5,10 @@
 ### Calendar
 
 | Date  | Activity | Event and location   | Registration   | Attendance funding | Organisation funding |
-| :---: | -------- | -------------------- | :------------: | ------------------ |--------------------- |
+| :---: | :------: | -------------------- | :------------: | ------------------ |--------------------- |
 | 4 Apr 2020 | [Talk](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) | NA¹ | TBC |
+| 6 May 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
+| 10 June 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
 | 27 July 2020 | [Workshop](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham | [Link](https://www.ukclc2020.com/registration) | NA¹ | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 25 Aug 2020 | [Workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) | NA¹ | NA² |
 
@@ -14,7 +16,7 @@
 
 ### Background
 
-This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers organisation costs on a [budget basis](https://www.software.ac.uk/fellowship-programme/2020/terms-and-conditions). If you would like to bring any of these events to your institution at no cost, please submit a request (see [Contact](#contact)).
+This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) that covers organisation costs on a [budget basis](https://www.software.ac.uk/fellowship-programme/2020/terms-and-conditions), and thanks to further support from the [N8 CIR](https://n8cir.org.uk/events/). If you would like to bring any of these events to your institution at no cost, please submit a request (see [Contact](#contact)).
 
 #### Open-source software
 
@@ -61,7 +63,7 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 
 #### Workshop 2: R Markdown documents
 
-Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `pagedown`, `blogdown`, `bookdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
+Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `bookdown`, `blogdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
 
 <p align = 'center'> <a href = 'https://github.com/rstudio/pagedown'> <img width = '70%' src = 'https://user-images.githubusercontent.com/19177171/51005498-5b46cb80-153f-11e9-9026-4b50a9f3d3f1.png' alt = 'Example of pagedown-created document (image retrieved from R pagedown package)'/> </a> <p align = 'center' style = 'text-align:center;'> Image from pagedown package (https://github.com/rstudio/pagedown). </p> </p>
 

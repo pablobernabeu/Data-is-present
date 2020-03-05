@@ -28,13 +28,13 @@ Original data has become a [public good in many research fields](https://www.nat
 
 ## Activities
 
-Activities comprise free **workshops in R** and [**datathons**](#datathons-creating-reproducible-documents-and-dashboards) in which any software may be used.
+Activities comprise free **workshops** and [**datathons**](#datathons-creating-reproducible-documents-and-dashboards).
 
-### R workshops
+### Workshops
 
 [R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops are offered that cover a suite of interrelated tools—R, R Markdown, data dashboards and Binder environments—, all underlain by reproducible workflows and open-source software.
 
-Each workshop includes **taught and practical sections**. The practice provides a chance for code issues to arise and be addressed. The level of taught sections is largely tailored to the audience. Similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session.
+Each workshop includes **taught and practical sections**. The practice provides a chance for participants to experience and address common issues with the code. The level of taught sections is largely tailored to the audience; similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and some of the workshops can be combined into the same session.
 
 The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used. Throughout the workshops, and especially in the practice sections, individual questions will be encouraged.
 

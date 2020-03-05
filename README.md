@@ -79,7 +79,7 @@ These all-reproducible dashboards are published as websites, and thus, they can 
 
 [Binder](https://mybinder.org/) is a tool to facilitate public access to software environments--for instance, by publishing an RStudio environment on the internet. Binder can also host Shiny apps. It is generously free [for users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop. For this purpose, it's recommended to have data and R code ready, ideally in a GitHub repository.
 
-##### Website properties
+##### Improving data dashboards
 
 We will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
 

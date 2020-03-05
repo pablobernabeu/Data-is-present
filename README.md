@@ -77,7 +77,7 @@ These all-reproducible dashboards are published as websites, and thus, they can 
 
 #### Workshop 4: Binder environments and intermediate data dashboards
 
-This session begins by introducing [Binder environments](https://mybinder.org/), a tool to facilitate public access to our code (e.g., by publishing an RStudio session on the internet). These environments can also host Shiny apps. Binder is generously free [for the users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop.
+[Binder](https://mybinder.org/) is a tool to facilitate public access to software environments--for instance, by publishing an RStudio environment on the internet. Binder can also host Shiny apps. It is generously free [for users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop. For this purpose, it's recommended to have data and R code ready, ideally in a GitHub repository.
 
 ##### Website properties
 

@@ -2,12 +2,12 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-| Date  | Topics | Location   | Registration   | Attendance funding | Organisation funding |
+| Date  | Workshop | Location   | Registration   | Attendance funding | Organisation funding |
 | :---: | -------- | -------------------- | :------------: | :----------------: |--------------------- |
-| 7 May 2020 | [Introduction to R and R Markdown](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| 10 June 2020 | [Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [Introduction to R and R Markdown](https://n8cir.org.uk/events/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| 7 May 2020 | [1. Introduction to R and R Markdown](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| 10 June 2020 | [2. Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [1. Introduction to R and R Markdown](https://n8cir.org.uk/events/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [2. Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 
 ### Background
 

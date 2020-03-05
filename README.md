@@ -20,7 +20,7 @@ This project offers free activities to learn and practise reproducible data pres
 
 #### Open-source software
 
-Programming languages such as [R](https://www.r-project.org/about.html) or [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
+Programming languages such as [R](https://www.r-project.org/about.html) and [Python](https://www.python.org/) offer free, powerful resources for data processing, visualisation and analysis. Experience in these programs is highly valued in data-intensive disciplines.
 
 #### Open data
 

@@ -32,9 +32,9 @@ Activities comprise free **workshops in R** and [**datathons**](#datathons-creat
 
 ### R workshops
 
-[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops are offered that cover a suite of interrelated tools—R, R Markdown, data dashboards and Binder environments—, all underlain by freeware and reproducible workflows.
+[R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops are offered that cover a suite of interrelated tools—R, R Markdown, data dashboards and Binder environments—, all underlain by reproducible workflows and open-source software.
 
-Each workshop includes **taught and practical sections**. The level of taught sections is largely tailored to the audience. Similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session. 
+Each workshop includes **taught and practical sections**. The practice provides a chance for code issues to arise and be addressed. The level of taught sections is largely tailored to the audience. Similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session.
 
 The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used. Throughout the workshops, and especially in the practice sections, individual questions will be encouraged.
 

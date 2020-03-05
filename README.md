@@ -5,7 +5,7 @@
 ### Calendar
 
 | Date  | Activity | Event and location   | Registration   | Attendance funding | Organisation funding |
-| :---: | :------: | -------------------- | :------------: | ------------------ |--------------------- |
+| :---: | :------: | -------------------- | :------------: | :----------------: |--------------------- |
 | 4 Apr 2020 | [Talk](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) |  | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 7 May 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 10 June 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |

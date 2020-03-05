@@ -7,12 +7,12 @@
 | Date  | Activity | Event and location   | Registration   | Attendance funding | Organisation funding |
 | :---: | :------: | -------------------- | :------------: | ------------------ |--------------------- |
 | 4 Apr 2020 | [Talk](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) |  | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| 6 May 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
-| 10 June 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
+| 7 May 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| 10 June 2020 | [Workshop](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 27 July 2020 | [Workshop](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham | [Link](https://www.ukclc2020.com/registration) |  | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 25 Aug 2020 | [Workshop](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |  |  |
-| tbc | [Workshop](https://n8cir.org.uk/events/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
-| tbc | [Workshop](https://n8cir.org.uk/events/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme), <br> [N8 CIR](https://n8cir.org.uk/events/) |
+| tbc | [Workshop](https://n8cir.org.uk/events/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| tbc | [Workshop](https://n8cir.org.uk/events/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 
 ### Background
 
@@ -34,7 +34,7 @@ Activities comprise free **workshops in R** and [**datathons**](#datathons-creat
 
 [R is a programming language](https://www.r-project.org) greatly equipped for the creation of reproducible documents and dashboards. Four workshops are offered that cover a suite of interrelated tools—R, R Markdown, data dashboards and Binder environments—, all underlain by freeware and reproducible workflows.
 
-Each workshop includes **taught and practice sections**. The level of taught sections is largely tailored to the audience. Similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session. 
+Each workshop includes **taught and practical sections**. The level of taught sections is largely tailored to the audience. Similarly, the practice sections are individually adaptable by means of easier and tougher tasks. The duration is also flexible, and furthermore some of the workshops can be combined into one session. 
 
 The [RStudio](https://rstudio.com/) interface is used in all workshops. Multi-levelled, real code examples are used. Throughout the workshops, and especially in the practice sections, individual questions will be encouraged.
 

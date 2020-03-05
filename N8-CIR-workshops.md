@@ -68,13 +68,15 @@ Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.c
 
 <p align = 'center'> <a href = 'https://www.linkedin.com/pulse/shiny-data-presentation-added-value-pablo-bernabeu/'> <img width = '40%' src = 'https://media-exp1.licdn.com/dms/image/C4D12AQHYcdpmcmSypg/article-inline_image-shrink_1500_2232/0?e=1585785600&v=beta&t=0xfTYFRu_OsWN4lkwnO1IonW6HgAuJD79443sf1-4Ms' alt = 'Illustration of the usage of dashboards alongside data repositories' /> </a> </p>
 
-These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Some of the R packages used are `knitr`, `kableExtra`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim of this workshop is to practise creating different forms of dashboards—[Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—the latter of which offers greater features, and to practise also with the hosting platforms fitting each type—such as personal websites, [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) and [custom servers](https://rstudio.com/products/shiny/shiny-server/). A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level using some HTML, CSS or Javascript code (on top of the back-end code present in the R packages used), which is addressed in the next workshop.
+These all-reproducible dashboards are published as websites, and thus, they can include hyperlinks and downloadable files. Some of the R packages used are `knitr`, `kableExtra`, `reactable`, `ggplot2`, `plotly`, `rmarkdown`, `flexdashboard` and `shiny`. The aim is to practise creating different forms of dashboards—[Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/) and [Shiny](https://shiny.rstudio.com/)—the latter of which offers greater features, and to practise also with the hosting platforms fitting each type—such as personal websites, [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) and [custom servers](https://rstudio.com/products/shiny/shiny-server/). A great thing about dashboards is that they may be made very simple, but they can also be taken to the next level using some HTML, CSS or Javascript code (on top of the back-end code present in the R packages used), which is addressed in the second part of this workshop.
 
-#### Binder environments and intermediate data dashboards
+#### Binder environments and improving data dashboards
+
+##### Binder
 
 [Binder](https://mybinder.org/) is a tool to facilitate public access to software environments--for instance, by publishing an RStudio environment on the internet. Binder can also host Shiny apps. It is generously free [for users](https://discourse.jupyter.org/t/mybinder-org-cost-updates/2426). After looking at the [nuts and bolts of a deployment](https://github.com/binder-examples/r), participants will be able to deploy their own Binder environments and check the result by the end of the workshop. For this purpose, it's recommended to have data and R code ready, ideally in a GitHub repository.
 
-##### Website properties
+##### Improving data dashboards
 
 We will practise how to improve the functionality of dashboards using some HTML, CSS and Javascript code, which is [the basis of websites](https://www.w3schools.com/whatis/).
 
@@ -154,7 +156,7 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 *Necessary:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 
-*Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
+*Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 2); participation in Workshop 1.
 
 -------------
 

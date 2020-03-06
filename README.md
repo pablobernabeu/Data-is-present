@@ -159,9 +159,9 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 #### Prerequisites and suggestions for participation in each workshop
 
-*Necessary:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
+*Necessary:* laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 
-*Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
+*Recommended:* having your own data and R code ready (on a Github repository if participating in Workshop 4); participation in some of the preceding workshops.
 
 
 ### Datathons: creating reproducible documents and dashboards
@@ -182,9 +182,9 @@ In these coding meet-ups, participants collaborate to create reproducible docume
 
 #### Prerequisites and suggestions for participation in datathons
 
-*Necessary:* Basic knowledge of reproducible documents or dashboards. 
+*Necessary:* basic knowledge of reproducible documents or dashboards. 
 
-*Recommended:* Familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
+*Recommended:* familiarity with the development of reproducible documents or dashboards; an idea about the data you'd like to work with and the kind of document or dashboard you want to create.
 
 ## Contact 
 

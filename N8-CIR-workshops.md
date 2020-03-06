@@ -156,7 +156,7 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 *Necessary:* laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 
-*Recommended:* having your own data and R code ready (on a Github repository if participating in Workshop 2).
+*Suggested:* having your own data and R code ready (on a Github repository if participating in Workshop 2).
 
 -------------
 

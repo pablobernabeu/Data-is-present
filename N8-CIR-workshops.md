@@ -154,9 +154,9 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 #### Prerequisites and suggestions for participation in each workshop
 
-*Necessary:* Laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
+*Necessary:* laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 
-*Recommended:* Having your own data and R code ready (on a Github repository if participating in Workshop 2).
+*Recommended:* having your own data and R code ready (on a Github repository if participating in Workshop 2).
 
 -------------
 

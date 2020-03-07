@@ -152,7 +152,7 @@ Memory and traffic limits of the free shinyapps.io account can sometimes present
 
 Conveniently, all text in a PDF—even in plots—is indexed, so it can be searched [ Ctrl+f / Cmd+f / 🔍 ] (see [example](https://osf.io/2tpxn/)). Furthermore, you may also [merge the rendered PDF with any other documents](http://www.ilovepdf.com/).
 
-#### Prerequisites and suggestions for participation in each workshop
+### Prerequisites and suggestions for participation in each workshop
 
 *Necessary:* laptop or computer with [R](https://www.r-project.org/) and [RStudio](https://rstudio.com/products/rstudio/download/) installed, or access to [RStudio Cloud](https://rstudio.cloud/); familiarity with the content of the preceding workshops through the web links herein.
 

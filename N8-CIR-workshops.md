@@ -91,7 +91,7 @@ $(document).ready(function(){
 
 <p align = 'center'> <a href = 'https://shiny.rstudio.com/gallery/'> <img align = 'center' width = '60%' src = 'https://raw.githubusercontent.com/pablobernabeu/data-is-present/master/dashboard%20gif.gif' alt = 'Examples of data dashboards' /> </a> </p>
 
-##### Trade-offs among dashboards
+###### Trade-offs among dashboards
 
 Next, we will turn to data dashboards, to gain further experience with three types—[Flexdashboard](https://rmarkdown.rstudio.com/flexdashboard/using.html), [Shiny](https://shiny.rstudio.com/tutorial/) and [Flexdashboard-Shiny](https://rmarkdown.rstudio.com/flexdashboard/shiny.html)—and with the suitable hosting platforms. Firstly, the strength of Flexdashboard ([example](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms)) is its basis on R Markdown, yielding an unmatched user interface (*front-end*). Secondly, the strength of Shiny ([example](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/)) is the input reactivity (*back-end*) it offers, allowing users to download sections of data they select, in various formats. Last, Flexdashboard-Shiny ([example](https://pablobernabeu.shinyapps.io/dutch-modality-exclusivity-norms/)) combines the best of both worlds.
 
@@ -127,7 +127,7 @@ and disable reactive features
 ```
 ````
 
-##### Free accounts and tips
+###### Free accounts and tips
 
 App providers have specific terms of use. To begin, [shinyapps.io](https://www.shinyapps.io/) has a free starter license with limited use, where free apps can handle a certain amount of data, and up to five apps may be created. Beyond that, RStudio offers a wide range of subscriptions starting at $9/month.
 

@@ -1,4 +1,4 @@
-# *Data is present:* [workshops](#r-workshops) and [datathons](#datathons-creating-reproducible-documents-and-dashboards)
+# *Data is present:* [workshops](#workshops) and [datathons](#datathons-creating-reproducible-documents-and-dashboards)
 
 ## Enhanced data presentation using reproducible documents and dashboards
 

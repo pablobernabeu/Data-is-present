@@ -484,7 +484,7 @@ with_tooltip <- function(value, tooltip) {
   span(style = 'text-decoration: underline; text-decoration-style: dotted;', title = tooltip, value)
 }
 
-reactable(species_dat[-9],  # Take out last the row corresponding to `dplyr::count()` above
+reactable(species_dat[-9],  # Take out the last row corresponding to `dplyr::count()` above
           defaultColDef = colDef(html = TRUE), defaultSorted = list(Species = 'asc'), striped = TRUE,
           style = list(fontFamily = 'Work Sans, sans-serif', fontSize = '16px'),
           pagination = FALSE, highlight = TRUE, height = 840, fullWidth = TRUE,

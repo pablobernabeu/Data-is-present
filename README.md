@@ -172,9 +172,9 @@ In these coding meetups, participants collaborate to create reproducible documen
 
 - **Purposes**
 
-  - collaborate to visualise data in novel ways using reproducible documents or interactive dashboards. For this purpose, participants sometimes draw on additional data to look at a bigger picture;
+  - collaborating to visualise data in novel ways using reproducible documents or interactive dashboards. For this purpose, participants sometimes draw on additional data to look at a bigger picture;
 
-  - to briefly reflect on the process by reviewing the techniques applied and challenges encountered.
+  - reflecting on the process by reviewing the techniques applied and challenges encountered.
 
 - **Output:** A key aspect of datathons is the creation of output. Documents and dashboards are (co-)authored by the participants who work on them, who can then publish them on their websites, or on [RPubs](https://rpubs.com/), [Binder](https://mybinder.org/), [Shinyapps](https://www.shinyapps.io/) or [custom servers](https://rstudio.com/products/shiny/shiny-server/). Time constraints notwithstanding, a lot of this output may be very enticing for further development by the same participants, or even by other people if the code is shared online. Just like with data, an attribution licence can be attached to the code.
 

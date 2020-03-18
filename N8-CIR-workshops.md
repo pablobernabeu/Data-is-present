@@ -139,16 +139,13 @@ Memory and traffic limits of the free shinyapps.io account can sometimes present
 - if necessary, use various apps (five are allowed in each free shinyapps.io account);
 - if necessary, link from the app to a PDF with visualisations requiring heavy, interlinked data. High-resolution plots can be rendered into a PDF document in a snap, using code such as below.
 
-        ```
-        
-        pdf('List of plots per page', width = 13, height = 5)
-        print(plot1)
-        print(plot2)
-        # ...
-        print(plot150)﻿
-        dev.off()
-        
-        ```
+      
+      pdf('List of plots per page', width = 13, height = 5)
+      print(plot1)
+      print(plot2)
+      # ...
+      print(plot150)﻿
+      dev.off()
 
 Conveniently, all text in a PDF—even in plots—is indexed, so it can be searched [ Ctrl+f / Cmd+f / 🔍 ] (see [example](https://osf.io/2tpxn/)). Furthermore, you may also [merge the rendered PDF with any other documents](http://www.ilovepdf.com/).
 

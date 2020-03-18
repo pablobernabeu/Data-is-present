@@ -166,7 +166,7 @@ Conveniently, all text in a PDF—even in plots—is indexed, so it can be searc
 
 In these coding meetups, participants collaborate to create reproducible documents or dashboards using the data and software they prefer (see [examples](https://github.com/pablobernabeu/Data-is-present/tree/master/examples-documents-dashboards)). Since the work can be split across different people and sections, some nice products may be achieved within a session. Any programming languages may be used.
 
-- **Data used:** &nbsp; Academic or non-academic data of your own, or open-access data from sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
+- **Data used:** &nbsp; academic or non-academic data of your own or from open-access sources such as [OSF](https://osf.io), scientific journals, governments, international institutions, NGOs, etc.
 
   - Inspired by the great [Reprohacks](https://reprohack.github.io/reprohack-hq/), content suggestions are encouraged. That is, if you'd like to have a reproducible document or dashboard created for a certain, open-access data set, please let us know, and some participants may take it on. Suggestions may be posted as [issues](https://github.com/pablobernabeu/Data-is-present/issues) or emailed to p.bernabeu@lancaster.ac.uk.
 

@@ -4,10 +4,10 @@
 
 | Date  | Workshop | Location   | Registration   | Attendance funding | Organisation funding |
 | :---: | -------- | -------------------- | :------------: | :----------------: |--------------------- |
-| 7 May 2020 | [1. Introduction to R and R Markdown](https://n8cir.org.uk/events/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| 10 June 2020 | [2. Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [1. Introduction to R and R Markdown](https://n8cir.org.uk/events/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [2. Data dashboards and Binder environments](https://n8cir.org.uk/events/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [Workshop](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [Workshop](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [Workshop](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| To follow | [Workshop](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 
 ### Background
 

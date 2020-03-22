@@ -4,8 +4,8 @@
 
 ### Calendar
 
-| Date  | Title | Event and location   | Registration   | Attendance funding | Organisation funding |
-| :---: | :------: | -------------------- | :------------: | :----------------: |--------------------- |
+| Date  | Title        | Event and location   | Registration   | Attendance funding | Organisation funding |
+| :---: | ------------ | -------------------- | :------------: | :----------------: |--------------------- |
 | To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
 | 25 Aug 2020 | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |  |  |

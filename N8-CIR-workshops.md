@@ -129,7 +129,7 @@ and disable reactive features
 
 ###### Free accounts and tips
 
-App providers have specific terms of use. To begin, [shinyapps.io](https://www.shinyapps.io/) has a free starter license with limited use, where free apps can handle a certain amount of data, and up to five apps may be created. Beyond that, RStudio offers a wide range of subscriptions starting at $9/month.
+Hosting sites have specific terms of use. For instance, [shinyapps.io](https://www.shinyapps.io/) has a free starter license with limited use. Free apps can handle a large but limited amount of data, and up to five apps may be created. Beyond this, RStudio offers a wide range of subscriptions starting at $9/month.
 
 Memory and traffic limits of the free shinyapps.io account can sometimes present problems when heavy data data sets are used, or there are many visits to the app. The memory overload issue is often flagged as `Shiny cannot use on-disk bookmarking`, whereas excessive traffic may see the app not loading. Fortunately, usage limits need not always require a paid subscription or a [custom server](https://www.r-bloggers.com/alternative-approaches-to-scaling-shiny-with-rstudio-shiny-server-shinyproxy-or-custom-architecture/), thanks to the following workarounds:
 

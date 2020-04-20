@@ -63,7 +63,7 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 
 #### Workshop 2: R Markdown documents
 
-Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `bookdown`, `bookdownplus`, `blogdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](http://rpubs.com/pcbernabeu/Dutch-modality-exclusivity-norms). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
+Set your input and output in stone with [R Markdown](https://rmarkdown.rstudio.com/). These reports may be enriched with website features (HTML/CSS) and published as websites, PDF, or Word. Moreover, with R packages such as `bookdown`, `bookdownplus`, `blogdown` and `flexdashboard`, documents can be formatted into [websites](https://awesome-blogdown.com/), [digital books](https://bookdown.org/) and [data dashboards](https://rmarkdown.rstudio.com/flexdashboard/). Other useful packages include `rmarkdown`, `knitr`, `kableExtra` and `ggplot2`.
 
 <p align = 'center'> <a href = 'https://bookdownplus.netlify.com/portfolio/'> <img width = '50%' src = 'https://github.com/pablobernabeu/bookdownplus/blob/master/inst2/copernicus/showcase/copernicus2.png?raw=true' alt = 'Example of paper created with bookdownplus (image retrieved from R bookdownplus package)'/> </a> <p align = 'center' style = 'text-align:center;'> Image from bookdownplus package (https://bookdownplus.netlify.com/portfolio/).</p></p>
 

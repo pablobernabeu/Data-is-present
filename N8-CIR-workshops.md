@@ -62,7 +62,7 @@ As well as facilitating the reproducibility of analyses and results to third par
 
 ### Workshop 2: Data dashboards and Binder environments
 
-#### Data dashboards
+#### Web applications and data dashboards
 
 [Data dashboards are web applications used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. They assist in explaining and accounting for our data processing and analysis. They don't require any coding from the end user. While most dashboards and web applications present existing data, a few of them serve the purpose of creating or simulating new data (see [example](https://github.com/pablobernabeu/Experiment-Simulation)).
 

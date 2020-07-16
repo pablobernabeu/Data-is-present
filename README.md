@@ -9,9 +9,9 @@
 | To follow | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |
 | To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [online] | [Link](https://n8cir.org.uk/events/) |
 | To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [online] | [Link](https://n8cir.org.uk/events/) |
-| August 2020 | [Open data and reproducibility: R Markdown, data dashboards and Binder](https://github.com/carpentrycon/carpentryconhome-proposals/issues/18#issuecomment-632729462) | [CarpentryCon](https://github.com/carpentrycon/carpentryconhome-proposals), The Carpentries [online] | [Link](https://github.com/carpentrycon/carpentryconhome-proposals) |
-| July 2020 | [Open data and reproducibility 2.0](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
-| May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |
+| 13 August 2020 | [Open data and reproducibility: R Markdown, data dashboards and Binder](https://github.com/carpentrycon/carpentryconhome-proposals/issues/18#issuecomment-632729462) | [CarpentryCon](https://github.com/carpentrycon/carpentryconhome-proposals), The Carpentries [online] | [Link](https://github.com/carpentrycon/carpentryconhome-proposals) |
+| 26 July 2020 | [Open data and reproducibility 2.0](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
+| 6 May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |
 | Event cancelled | [Open data and reproducibility 2.0](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) |
 
 ### Background

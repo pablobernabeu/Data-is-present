@@ -9,7 +9,7 @@
 
 ### Background
 
-This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks to support from the [N8 CIR](https://n8cir.org.uk/events/) and from a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
+This project offers free activities to learn and practise reproducible data presentation across the UK. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events thanks in the context of a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
 
 #### Open-source software
 

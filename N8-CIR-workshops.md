@@ -2,12 +2,10 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-| Date  | Workshop | Location   | Registration   | Attendance funding | Organisation funding |
-| :---: | -------- | -------------------- | :------------: | :----------------: |--------------------- |
-| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | University of York | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | Durham University | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md) | University of Liverpool | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
-| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) | University of Manchester | [Link](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/) | [N8 CIR](https://n8cir.org.uk/events/), <br> [SSI Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme) |
+| Date  | Workshop | Location   | Registration   |
+| :---: | -------- | -------------------- | :------------: |
+| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [online] | [Link](https://n8cir.org.uk/events/) |
+| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [online] | [Link](https://n8cir.org.uk/events/) |
 
 ### Background
 

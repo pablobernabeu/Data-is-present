@@ -4,8 +4,8 @@
 
 | Date  | Workshop | Location   | Registration   |
 | :---: | -------- | -------------------- | :------------: |
-| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  N8 CIR [online] | [Link](https://n8cir.org.uk/events/) |
-| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  N8 CIR [online] | [Link](https://n8cir.org.uk/events/) |
+| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
+| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
 
 ### Background
 

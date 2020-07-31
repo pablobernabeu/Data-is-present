@@ -10,7 +10,7 @@
 | To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
 | To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
 | 13 August 2020 | [Open data and reproducibility: R Markdown, data dashboards and Binder](https://github.com/carpentrycon/carpentryconhome-proposals/issues/18#issuecomment-632729462) | [CarpentryCon@Home](https://github.com/carpentrycon/carpentryconhome-proposals), The Carpentries [online] | [Link](https://github.com/carpentrycon/carpentryconhome-proposals) |
-| 26 July 2020 | [Open data and reproducibility 2.0](https://www.ukclc2020.com/pre-conference) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
+| 26 July 2020 | [Open data and reproducibility 2.0](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/pre-conference), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
 | 6 May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |
 | Event cancelled | [Open data and reproducibility 2.0](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) |
 

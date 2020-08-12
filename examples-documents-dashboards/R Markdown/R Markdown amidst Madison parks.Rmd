@@ -1,5 +1,5 @@
 ---
-title: "R Markdown and Madison parks"
+title: "R Markdown amidst Madison parks"
 subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/new/master/examples-documents-dashboards'> Code  </a> </span>"
 author: "Pablo Bernabeu"
 output: 
@@ -81,7 +81,7 @@ kable(
 ```
 
 
-We could choose to display the code for the table at this point, which can be done using the parameters `ref.label='largest-parks', echo = T, eval = F` in the chunk options ([Xie, Dervieux, &  Riederer, 2020](https://bookdown.org/yihui/rmarkdown-cookbook/reuse-chunks.html)).
+We could choose to display the code for the table at this point, which can be done using the parameters `ref.label = 'largest-parks', echo = T, eval = F` in the chunk options ([Xie, Dervieux, &  Riederer, 2020](https://bookdown.org/yihui/rmarkdown-cookbook/reuse-chunks.html)).
 
 ```{r ref.label = 'largest-parks', echo = T, eval = F}
 ```

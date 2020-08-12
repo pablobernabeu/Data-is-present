@@ -1,6 +1,6 @@
 ---
 title: "R Markdown amidst Madison parks"
-subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/R%20Markdown/R%20Markdown%20amidst%20Madison%20parks.Rmd'> Code  </a> </span>"
+subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/R%20Markdown/R%20Markdown%20amidst%20Madison%20parks.Rmd' target='_top'> Code  </a> </span>"
 author: "Pablo Bernabeu"
 output: 
   bookdown::html_document2: default
@@ -38,9 +38,9 @@ The conference was originally going to take place in Madison, so let's look at s
 
 ## Park types {-}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Figure \@ref(fig:count) shows the counts of various types of parks in Madison.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Figure \@ref(fig:park-types) shows the counts of various types of parks in Madison.
 
-```{r count, fig.cap='Types of parks in Madison.'}
+```{r park-types, fig.cap='Types of parks in Madison.'}
 
 dat = read.csv('https://opendata.arcgis.com/datasets/9e00ff81868e49b7ba65d4e628b9e14f_6.csv')
 

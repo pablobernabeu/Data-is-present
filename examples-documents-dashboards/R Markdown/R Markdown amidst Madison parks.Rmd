@@ -75,7 +75,7 @@ kable(
     arrange(-Acreage, Name, Type) %>%
     select(Name, Type, Acreage) %>%
     head(20),
-  caption='Types of parks and names in Madison.'
+  caption='The twenty largest parks in Madison.'
 )
 
 ```

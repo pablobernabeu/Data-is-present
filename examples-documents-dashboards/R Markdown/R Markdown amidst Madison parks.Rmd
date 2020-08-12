@@ -1,6 +1,6 @@
 ---
 title: "R Markdown amidst Madison parks"
-subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/new/master/examples-documents-dashboards'> Code  </a> </span>"
+subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/R%20Markdown/R%20Markdown%20amidst%20Madison%20parks.Rmd'> Code  </a> </span>"
 author: "Pablo Bernabeu"
 output: 
   bookdown::html_document2: default

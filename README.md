@@ -2,6 +2,8 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
+<br>
+
 | Date  | Title        | Event and location   | Registration   |
 | :---: | ------------ | -------------------- | :------------: |
 | To follow | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |

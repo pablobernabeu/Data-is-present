@@ -1,0 +1,89 @@
+---
+title: "R Markdown and Madison parks"
+subtitle: "<span style='font-size:16px'> - <a href='https://data-cityofmadison.opendata.arcgis.com/datasets/parks'> City of Madison data </a> <br> - <a href='https://github.com/pablobernabeu/Data-is-present/new/master/examples-documents-dashboards'> Code  </a> </span>"
+author: "Pablo Bernabeu"
+output: 
+  bookdown::html_document2: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, message = FALSE, warning = FALSE)
+library(ggplot2)
+library(plotly)
+library(dplyr)
+library(knitr)
+```
+
+
+<!-- Begin definition of layout parameters -->
+<head>
+<style type="text/css">
+
+/* Font size */
+
+body{
+font-size: 16px;
+}
+
+</head>
+</style>
+
+
+
+# Introduction {-}
+
+This document is part of teaching materials created for the CarpentryCon conference. The purpose is to practise R Markdown, including basic features such as Markdown markup and code chunks, along with more special features such as [cross-references for figures and tables](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html).
+
+The conference was originally going to take place in Madison, so let's look at some [open data from the City of Madison](https://data-cityofmadison.opendata.arcgis.com/datasets/parks?geometry=-89.997%2C43.007%2C-88.679%2C43.183).
+
+## Park types {-}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Figure \@ref(fig:count) shows the counts of various types of parks in Madison.
+
+```{r count, fig.cap='Types of parks in Madison.'}
+
+dat = read.csv('https://opendata.arcgis.com/datasets/9e00ff81868e49b7ba65d4e628b9e14f_6.csv')
+
+dat = 
+  dat %>%
+  group_by(Type) %>%
+  mutate(count_types = n())
+
+# Showing the code because echo=TRUE 
+ggplotly(
+  ggplot(dat, aes(x=reorder(Type, count_types),
+                  text = paste('Count =', count_types), 
+                  y=count_types)) + 
+    theme(axis.title.y=element_blank()) + stat_identity(geom='bar') + 
+    labs(x='Type', y='Count') + coord_flip(), tooltip = 'text'
+)
+
+```
+
+
+## Twenty largest parks {-}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Table \@ref(tab:largest-parks) shows the twenty largest parks types, along with their type and acreage.
+
+The code doesn't below because `echo = FALSE`. 
+
+```{r largest-parks, echo=FALSE}
+
+kable(
+  dat %>%
+    summarize(Name = Park_Name, Type, Acreage) %>%
+    arrange(-Acreage, Name, Type) %>%
+    select(Name, Type, Acreage) %>%
+    head(20),
+  caption='Types of parks and names in Madison.'
+)
+
+```
+
+
+We could choose to display the code for the table at this point, which can be done using the parameters `ref.label='largest-parks', echo = T, eval = F` in the chunk options ([Xie, Dervieux, &  Riederer, 2020](https://bookdown.org/yihui/rmarkdown-cookbook/reuse-chunks.html)).
+
+```{r ref.label = 'largest-parks', echo = T, eval = F}
+```
+
+<br><br>

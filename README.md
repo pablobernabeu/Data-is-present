@@ -2,8 +2,6 @@
 
 ## Enhanced data presentation using reproducible documents and dashboards
 
-### Calendar
-
 | Date  | Title        | Event and location   | Registration   |
 | :---: | ------------ | -------------------- | :------------: |
 | To follow | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |
@@ -13,6 +11,8 @@
 | 26 July 2020 | [Open data and reproducibility 2.0](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility) (with Eirini Zormpa) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/pre-conference), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
 | 6 May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |
 | Event cancelled | [Open data and reproducibility 2.0](https://newcastle2020.satrdays.org/) | [SatRday Newcastle upon Tyne](https://newcastle2020.satrdays.org/), Newcastle University | [Link](https://newcastle2020.satrdays.org/) |
+
+<br>
 
 ### Background
 

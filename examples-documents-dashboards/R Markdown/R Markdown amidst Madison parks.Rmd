@@ -58,7 +58,8 @@ ggplotly(
                   text = paste('Count =', count_types), 
                   y=count_types)) + 
     theme(axis.title.y=element_blank()) + stat_identity(geom='bar') + 
-    labs(x='Type', y='Count') + coord_flip(), tooltip = 'text'
+    labs(x='Type', y='Count') + coord_flip(), 
+  tooltip = 'text'
 )
 
 ```

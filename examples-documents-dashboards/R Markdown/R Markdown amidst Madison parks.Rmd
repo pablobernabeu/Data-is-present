@@ -72,14 +72,12 @@ The code doesn't below because `echo = FALSE`.
 
 ```{r largest-parks, echo=FALSE}
 
-kable(
-  dat %>%
-    summarize(Name = Park_Name, Type, Acreage) %>%
-    arrange(-Acreage, Name, Type) %>%
-    select(Name, Type, Acreage) %>%
-    head(20),
-  caption='The twenty largest parks in Madison.'
-)
+dat %>%
+  summarize(Name = Park_Name, Type, Acreage) %>%
+  arrange(-Acreage, Name, Type) %>%
+  select(Name, Type, Acreage) %>%
+  head(20) %>%
+  kable(caption = 'The twenty largest parks in Madison.')
 
 ```
 

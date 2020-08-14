@@ -32,11 +32,13 @@ font-size: 16px;
 
 # Introduction {-}
 
-This document is part of teaching materials created for the [CarpentryCon 2020 conference](https://2020.carpentrycon.org/). The purpose is to practise R Markdown, including basic features such as Markdown markup and code chunks, along with more special features such as [cross-references for figures and tables](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html).
+This document is part of teaching materials created for the workshop ['Open data and reproducibility v2.1: R Markdown, dashboards and Binder'](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility), delivered at the [CarpentryCon 2020 conference](https://2020.carpentrycon.org/). The purpose of this specific document is to practise R Markdown, including basic features such as Markdown markup and code chunks, along with more special features such as [cross-references for figures, tables, code chunks, etc](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html).
 
-The conference was originally going to take place in Madison, so let's look at some [open data from the City of Madison](https://data-cityofmadison.opendata.arcgis.com/datasets/parks?geometry=-89.997%2C43.007%2C-88.679%2C43.183).
+Since this conference was originally going to take place in Madison, let's look at some [open data from the City of Madison](https://data-cityofmadison.opendata.arcgis.com/datasets/parks?geometry=-89.997%2C43.007%2C-88.679%2C43.183).
 
 ## Park types {-}
+
+[Placeholder text] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Figure \@ref(fig:park-types) shows the counts of various types of parks in Madison.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Figure \@ref(fig:park-types) shows the counts of various types of parks in Madison.
 

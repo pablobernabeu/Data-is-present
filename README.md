@@ -6,9 +6,9 @@
 
 | Date  | Title        | Event and location   | Registration   |
 | :---: | ------------ | -------------------- | :------------: |
-| To follow | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University | [Link](http://wp.lancs.ac.uk/lcicd/registration/) |
-| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
-| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] | [Link](https://n8cir.org.uk/events/) |
+| To follow | [R is for Resources, Reproducibility and oppRtunities](http://wp.lancs.ac.uk/lcicd/programme/)    | [Lancaster Conference on Infant and Early Child Development](http://wp.lancs.ac.uk/lcicd/programme/), Lancaster University |  |
+| To follow | [Data dashboards and Binder environments](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] |  |
+| To follow | [Introduction to R and R Markdown](https://github.com/pablobernabeu/Data-is-present/blob/master/N8-CIR-workshops.md/) |  [N8 CIR](https://n8cir.org.uk/) [online] |  |
 | 13 August 2020 | [Open data and reproducibility: R Markdown, data dashboards and Binder](https://github.com/carpentrycon/carpentryconhome-proposals/issues/18#issuecomment-632729462) (with Florencia D'Andrea) | [CarpentryCon@Home](https://2020.carpentrycon.org/schedule/), The Carpentries [online] | [Link](https://2020.carpentrycon.org/schedule/) |
 | 26 July 2020 | [Open data and reproducibility 2.0](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility) (with Eirini Zormpa) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/pre-conference), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
 | 6 May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |

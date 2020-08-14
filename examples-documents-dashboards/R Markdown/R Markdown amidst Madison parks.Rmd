@@ -85,6 +85,7 @@ dat %>%
 We could choose to display the code for the table at this point, which can be done using the parameters `ref.label = 'largest-parks', echo = T, eval = F` in the chunk options ([Xie, Dervieux, &  Riederer, 2020](https://bookdown.org/yihui/rmarkdown-cookbook/reuse-chunks.html)).
 
 ```{r ref.label = 'largest-parks', echo = T, eval = F}
+
 ```
 
 <br><br>

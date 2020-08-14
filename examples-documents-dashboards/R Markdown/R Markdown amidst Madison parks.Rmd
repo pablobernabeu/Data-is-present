@@ -45,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ```{r park-types, fig.cap='Types of parks in Madison.'}
 
-# Showing the code because echo=TRUE 
+# Showing the code because echo = TRUE 
 
 dat = read.csv('https://opendata.arcgis.com/datasets/9e00ff81868e49b7ba65d4e628b9e14f_6.csv')
 

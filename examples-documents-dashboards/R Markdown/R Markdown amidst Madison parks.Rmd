@@ -53,9 +53,8 @@ dat =
   mutate(count_types = n())
 
 ggplotly(
-  ggplot(dat, aes(x=reorder(Type, count_types),
-                  text = paste('Count =', count_types), 
-                  y=count_types)) + 
+  ggplot(dat, aes(x=reorder(Type, count_types), y=count_types,
+                  text = paste('Count =', count_types))) + 
     theme(axis.title.y=element_blank()) + stat_identity(geom='bar') + 
     labs(x='Type', y='Count') + coord_flip(), 
   tooltip = 'text'

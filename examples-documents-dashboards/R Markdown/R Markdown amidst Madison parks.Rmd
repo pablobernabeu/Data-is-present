@@ -33,7 +33,7 @@ font-size: 16px;
 
 # Introduction {-}
 
-This document is part of teaching materials created for the workshop ['Open data and reproducibility v2.1: R Markdown, dashboards and Binder'](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility), delivered at the [CarpentryCon 2020 conference](https://2020.carpentrycon.org/). The purpose of this specific document is to practise R Markdown, including basic features such as Markdown markup and code chunks, along with more special features such as [cross-references for figures, tables, code chunks, etc](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html).
+This document is part of teaching materials created for the workshop ['Open data and reproducibility v2.1: R Markdown, dashboards and Binder'](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility){target='_top'}, delivered at the [CarpentryCon 2020 conference](https://2020.carpentrycon.org/). The purpose of this specific document is to practise R Markdown, including basic features such as Markdown markup and code chunks, along with more special features such as [cross-references for figures, tables, code chunks, etc](https://bookdown.org/yihui/rmarkdown-cookbook/cross-ref.html).
 
 Since this conference was originally going to take place in Madison, let's look at some [open data from the City of Madison](https://data-cityofmadison.opendata.arcgis.com/datasets/parks?geometry=-89.997%2C43.007%2C-88.679%2C43.183).
 

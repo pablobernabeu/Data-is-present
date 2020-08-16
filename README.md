@@ -73,7 +73,7 @@ As well as facilitating the reproducibility of analyses and results to third par
 
 #### Workshop 3: Introduction to web applications and dashboards
 
-[Data dashboards are web applications used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. They assist in explaining and accounting for our data processing and analysis. They don't require any coding from the end user. While most dashboards and web applications present existing data, a few of them serve the purpose of creating or simulating new data (see [example](https://github.com/pablobernabeu/Experiment-Simulation)).
+[Data dashboards are web applications used to visualise data](https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01782/full) in detail through tables and plots. They assist in explaining and accounting for our data processing and analysis. They don't require any coding from the end user. While most dashboards and web applications present existing data, a few of them serve the purpose of creating or simulating new data (see [example](https://github.com/pablobernabeu/Experimental-data-simulation)).
 
 <p align = 'center'> <a href = 'https://pablobernabeu.github.io/2017/the-case-for-data-dashboards-first-steps-in-r-shiny/'> <img width = '80%' src = 'https://pablobernabeu.github.io/2017/the-case-for-data-dashboards-first-steps-in-r-shiny/8.png' alt = 'Illustration of the usage of dashboards alongside data repositories' /> </a> </p>
 

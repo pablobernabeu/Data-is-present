@@ -6,6 +6,7 @@
 
 | Date  | Title        | Event and location   | Registration   |
 | :---: | ------------ | -------------------- | :------------: |
+| 8 Oct 2020 | Reproducibilidad entorno a una aplicación web | Reprohack at LatinR Conference [online] | Link to follow |
 | 13 Aug 2020 | [Open data and reproducibility v2.1: R Markdown, data dashboards and Binder](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility) (co-led with Florencia D'Andrea) | [CarpentryCon@Home](https://2020.carpentrycon.org/schedule/), The Carpentries [online] | [Link](https://2020.carpentrycon.org/schedule/) |
 | 26 July 2020 | [Open data and reproducibility](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility) (co-led with Eirini Zormpa) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/pre-conference), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 
 | 6 May 2020 | [R Markdown workshop](#workshop-2-r-markdown-documents) | Lancaster University [online] | |

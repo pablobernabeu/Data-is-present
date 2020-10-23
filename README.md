@@ -6,7 +6,7 @@
 
 | Date  | Title        | Event and location   | Registration   |
 | :---: | ------------ | -------------------- | :------------: |
-| 26 Nov 2020 | [Mixed-effects models in R, and a new tool for data simulation](/talk/2020-11-26-mixed-effects-models-in-r-and-a-new-tool-for-data-simulation) | New Tricks Seminars, Dept. Psychology, Lancaster University [online] |  |
+| 26 Nov 2020 | [Mixed-effects models in R, and a new tool for data simulation](https://pablobernabeu.github.io/talk/2020-11-26-mixed-effects-models-in-r-and-a-new-tool-for-data-simulation/) | New Tricks Seminars, Dept. Psychology, Lancaster University [online] |  |
 | 8 Oct 2020 | Reproducibilidad en torno a una aplicación web | Reprohack en español, LatinR Conference 2020 [online] | [Link](https://www.eventbrite.com.ar/e/reprohack-en-espanol-latinr-2020-tickets-121741832097) |
 | 13 Aug 2020 | [Open data and reproducibility v2.1: R Markdown, data dashboards and Binder](https://github.com/pablobernabeu/CarpentryCon-2020-workshop-Open-Data-Reproducibility) (co-led with Florencia D'Andrea) | [CarpentryCon@Home](https://2020.carpentrycon.org/schedule/), The Carpentries [online] | [Link](https://2020.carpentrycon.org/schedule/) |
 | 26 July 2020 | [Open data and reproducibility](https://github.com/pablobernabeu/UKCLC2020-workshop-Open-data-and-reproducibility) (co-led with Eirini Zormpa) | [UK Cognitive Linguistics Conference](https://www.ukclc2020.com/pre-conference), University of Birmingham [online] | [Link](https://www.ukclc2020.com/registration) | 

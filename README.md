@@ -17,7 +17,7 @@
 
 ### Background
 
-This project offers free activities to learn and practise reproducible data presentation. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organises these events in the context of a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
+This project offered free activities to learn and practise reproducible data presentation. [Pablo Bernabeu](https://www.software.ac.uk/about/fellows/pablo-bernabeu) organised these events in the context of a [Software Sustainability Institute Fellowship](https://www.software.ac.uk/programmes-and-events/fellowship-programme).
 
 #### Open-source software
 

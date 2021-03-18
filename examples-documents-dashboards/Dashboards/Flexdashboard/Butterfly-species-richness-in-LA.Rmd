@@ -5,7 +5,6 @@ output:
   flexdashboard::flex_dashboard:
     theme: cerulean
     favicon: https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Dashboards/Flexdashboard/butterfly%20favicon.png
-    logo: icon-26.png
   orientation: columns
 vertical_layout: scroll
 ---
@@ -114,12 +113,6 @@ pre { /* Code-fromatted output */
 }
 
 </style>
-
-<!-- Javascript function to add hyperlink to logo image -->
-<script>
-$('.navbar-logo').wrap('<a href="https://pablobernabeu.github.io/#applications-and-dashboards">');
-</script>
-
 </head>
 
 

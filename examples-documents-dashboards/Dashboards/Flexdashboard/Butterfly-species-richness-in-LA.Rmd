@@ -5,6 +5,7 @@ output:
   flexdashboard::flex_dashboard:
     theme: cerulean
     favicon: https://github.com/pablobernabeu/Data-is-present/blob/master/examples-documents-dashboards/Dashboards/Flexdashboard/butterfly%20favicon.png
+    logo: icon-26.png
   orientation: columns
 vertical_layout: scroll
 ---

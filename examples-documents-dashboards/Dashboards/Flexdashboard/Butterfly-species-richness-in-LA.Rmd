@@ -113,6 +113,12 @@ pre { /* Code-fromatted output */
 }
 
 </style>
+
+<!-- Javascript function to add hyperlink to logo image -->
+<script>
+$('.navbar-logo').wrap('<a href="https://pablobernabeu.github.io/#applications-and-dashboards">');
+</script>
+
 </head>
 
 
@@ -272,7 +278,7 @@ dat[dat$Species=='Junonia_coenia', 'image_link'] = 'https://upload.wikimedia.org
 dat[dat$Species=='Leptotes_marina', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/b/bc/Marine_blue_%28Leptotes_marina%29.jpg'
 dat[dat$Species=='Lerodea_eufala', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/a/a7/Eufala_Skipper_-_Lerodea_eufala_%2826286865559%29.jpg'
 dat[dat$Species=='Limenitis_lorquini', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/a/a4/Lorquinsadmiral2.jpg'
-dat[dat$Species=='Nathalis_iole', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Nathalis_iole1.jpg/220px-Nathalis_iole1.jpg'
+dat[dat$Species=='Nathalis_iole', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/SULPHUR%2C_DAINTY_%28Nathalis_iole%29_%289-2-10%29_patagonia_hills%2C_scc%2C_az_%282%29_%289421556707%29.jpg/709px-SULPHUR%2C_DAINTY_%28Nathalis_iole%29_%289-2-10%29_patagonia_hills%2C_scc%2C_az_%282%29_%289421556707%29.jpg'
 dat[dat$Species=='Nymphalis_antiopa', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/9/91/%D0%9D%D0%B8%D0%BC%D1%84%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%BE%D0%BF%D0%B0%2C_%D1%82%D1%80%D0%B0%D1%83%D1%80%D0%BD%D0%B8%D1%86%D0%B0.jpg'
 dat[dat$Species=='Ochlodes_sylvanoides', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/XN_Ochlodes_sylvanus_02.jpg/1200px-XN_Ochlodes_sylvanus_02.jpg'
 dat[dat$Species=='Papilio_eurymedon', 'image_link'] = 'https://upload.wikimedia.org/wikipedia/commons/0/01/Papilio_eurymedon_000.jpg'
@@ -306,7 +312,7 @@ dat[dat$Species=='Junonia_coenia', 'image_licence_map'] = "<a target='_top' href
 dat[dat$Species=='Leptotes_marina', 'image_licence_map'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Marine_blue_(Leptotes_marina).jpg'>Anne Toal (CC Attribution)</a>"
 dat[dat$Species=='Lerodea_eufala', 'image_licence_map'] = "<a target='_top' href='https://commons.wikimedia.org/wiki/File:Eufala_Skipper_-_Lerodea_eufala_(26286865559).jpg'>gailhampshire (CC Attribution)</a>"
 dat[dat$Species=='Limenitis_lorquini', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Lorquin%27s_admiral#/media/File:Lorquinsadmiral2.jpg'>Calibas (CC Attribution)</a>"
-dat[dat$Species=='Nathalis_iole', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Nathalis_iole#/media/File:Nathalis_iole1.jpg'>Tom Peterson (CC Attribution)</a>"
+dat[dat$Species=='Nathalis_iole', 'image_licence_map'] = "<a target='_top' href='https://www.flickr.com/photos/sloalan/9421556707/'>Alan Schmierer (CC Public Domain)</a>"
 dat[dat$Species=='Nymphalis_antiopa', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Nymphalis_antiopa#/media/File:%D0%9D%D0%B8%D0%BC%D1%84%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%BE%D0%BF%D0%B0,_%D1%82%D1%80%D0%B0%D1%83%D1%80%D0%BD%D0%B8%D1%86%D0%B0.jpg'>Milantina (CC Attribution)</a>"
 dat[dat$Species=='Ochlodes_sylvanoides', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Ochlodes#/media/File:XN_Ochlodes_sylvanus_02.jpg'>Guido Gerding (CC Attribution)</a>"
 dat[dat$Species=='Papilio_eurymedon', 'image_licence_map'] = "<a target='_top' href='https://en.wikipedia.org/wiki/Papilio_eurymedon#/media/File:Papilio_eurymedon_000.jpg'>NA (CC Attribution)</a>"
@@ -333,7 +339,7 @@ Sampling sites
 Column
 -----------------------------------------------------------------------
 
-### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target='_top'> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target='_top'>iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target='_top'>BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target='_top'> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target='_top'>Pablo Bernabeu</a>. Searchable <a href='https://www.tandfonline.com/doi/abs/10.3846/20296991.2016.1160493' target='_top'>OSM</a> map (desktop computer recommended). Hide toolbars at lower right.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
+### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target='_top'> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target='_top'>iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target='_top'>BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target='_top'> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target='_top'>Pablo Bernabeu</a>. Searchable <a href='https://www.tandfonline.com/doi/abs/10.3846/20296991.2016.1160493' target='_top'>OSM</a> map (desktop computer recommended).</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
 
 ```{r}
 
@@ -418,7 +424,7 @@ Species details {style="background-color: #FCFCFC;"}
 Column {style="data-width:100%; position:static; height:1000px;"}
 -----------------------------------------------------------------------
 
-### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target="_blank"> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target="_blank">iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target="_blank">BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target="_blank"> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target="_blank">Pablo Bernabeu</a>. Hide toolbars at lower right. Desktop computer recommended.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
+### <span style='font-size: 16px; padding-left: 20px; padding-right: 20px; display: inline-block;'> <a href='https://github.com/jcoliver/BioScan/blob/master/data/BioScanDataComplete.csv' target="_blank"> Open data</a> (<a href='https://github.com/jcoliver/bioscan/blob/master/data/iNaturalist-clean-reduced.csv' target="_blank">iNaturalist</a> and <a href='https://github.com/jcoliver/bioscan/blob/master/data/BioScanDataComplete.csv' target="_blank">BioScan</a>) from Prudic, K.L.; Oliver, J.C.; Brown, B.V.; Long, E.C. <a href='https://doi.org/10.3390/insects9040186' target="_blank"> **Comparisons of Citizen Science Data-Gathering Approaches to Evaluate Urban Butterfly Diversity**. *Insects* **2018**, *9*, 186</a>. Dashboard independently developed by <a href='https://github.com/pablobernabeu/Data-is-present/blob/master/README.md' target="_blank">Pablo Bernabeu</a>.</span> {style="text-align:justify; margin-top:4px; padding-top:15px; padding-bottom: 5px;"}
 
 ```{r}
 
@@ -439,7 +445,7 @@ dat[dat$Species=='Junonia_coenia', 'image_licence_table'] = '<a target="_blank" 
 dat[dat$Species=='Leptotes_marina', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Marine_blue_(Leptotes_marina).jpg">Anne Toal<br>(CC Attribution)</a>'
 dat[dat$Species=='Lerodea_eufala', 'image_licence_table'] = '<a target="_blank" href="https://commons.wikimedia.org/wiki/File:Eufala_Skipper_-_Lerodea_eufala_(26286865559).jpg">gailhampshire<br>(CC Attribution)</a>'
 dat[dat$Species=='Limenitis_lorquini', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Lorquin%27s_admiral#/media/File:Lorquinsadmiral2.jpg">Calibas<br>(CC Attribution)</a>'
-dat[dat$Species=='Nathalis_iole', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Nathalis_iole#/media/File:Nathalis_iole1.jpg">Tom Peterson<br>(CC Attribution)</a>'
+dat[dat$Species=='Nathalis_iole', 'image_licence_table'] = '<a target="_blank" href="https://www.flickr.com/photos/sloalan/9421556707/">Alan Schmierer (CC Public Domain)</a>'
 dat[dat$Species=='Nymphalis_antiopa', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Nymphalis_antiopa#/media/File:%D0%9D%D0%B8%D0%BC%D1%84%D0%B0_%D0%B0%D0%BD%D1%82%D0%B8%D0%BE%D0%BF%D0%B0,_%D1%82%D1%80%D0%B0%D1%83%D1%80%D0%BD%D0%B8%D1%86%D0%B0.jpg">Milantina<br>(CC Attribution)</a>'
 dat[dat$Species=='Ochlodes_sylvanoides', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Ochlodes#/media/File:XN_Ochlodes_sylvanus_02.jpg">Guido Gerding<br>(CC Attribution)</a>'
 dat[dat$Species=='Papilio_eurymedon', 'image_licence_table'] = '<a target="_blank" href="https://en.wikipedia.org/wiki/Papilio_eurymedon#/media/File:Papilio_eurymedon_000.jpg">NA<br>(CC Attribution)</a>'
@@ -466,11 +472,6 @@ dat$Species_hyperlink = dat$Species_hyperlink = paste0('<span style="font-size:2
                                                        gsub('_', '+', dat$Species),
                                                        '+butterfly" style="text-decoration: none;" target="_blank">',
                                                        gsub('_', ' ', dat$Species), '</a></span>')
-dat$wingspan_mm = paste0('<span style=font-size:16px;">', dat$wingspan_mm, '</span>')
-dat$N_crowdsourcing_iNaturalist = paste0('<span style=font-size:16px;">', dat$N_crowdsourcing_iNaturalist, '</span>')
-dat$N_Pollard_Walk_BioScan = paste0('<span style=font-size:16px;">', dat$N_Pollard_Walk_BioScan, '</span>')
-dat$N_malaise_trap_BioScan = paste0('<span style=font-size:16px;">', dat$N_malaise_trap_BioScan, '</span>')
-dat$N_per_species = paste0('<span style=font-size:16px;">', dat$N_per_species, '</span>')
 dat$image_licence_table = paste0('<span style=font-size:15px;">', dat$image_licence_table, '</span>')
 
 # Aggregate data by variables to be shown on table

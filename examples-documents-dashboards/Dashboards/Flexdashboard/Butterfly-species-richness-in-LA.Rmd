@@ -126,7 +126,6 @@ library(leaflet.extras)
 library(doBy)
 library(htmltools)
 library(knitr)
-library(kableExtra)
 library(reactable)
 
 # Read BioScan data in

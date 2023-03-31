@@ -2,7 +2,7 @@
 
 These are examples of the kinds of documents that can be created with the skills learnt in the [workshops](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#r-workshops). The [datathons](https://github.com/pablobernabeu/Data-is-present/blob/master/README.md#datathons-creating-reproducible-documents-and-dashboards) will put these skills into practice (participants welcome to either or both).
 
-If you would like to share any other examples, please [create a pull request](https://github.com/pablobernabeu/Data-is-present/pulls), or [post an issue](https://github.com/pablobernabeu/Data-is-present/issues), or email p.bernabeu@lancaster.ac.uk.
+If you would like to share any other examples, please [create a pull request](https://github.com/pablobernabeu/Data-is-present/pulls), or [post an issue](https://github.com/pablobernabeu/Data-is-present/issues), or email pcbernabeu@gmail.com.
 
 ## Documents
 
@@ -35,7 +35,7 @@ If you would like to share any other examples, please [create a pull request](ht
 
 ### Shiny format
 
-- [Modality switch effects emerge early and increase throughout conceptual processing: evidence from ERPs](https://mybinder.org/v2/gh/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/master?urlpath=shiny/Shiny-app/)
+- [Modality switch effects emerge early and increase throughout conceptual processing: evidence from ERPs](https://pablobernabeu.shinyapps.io/ERP-waveform-visualization_CMS-experiment)
 
   - [Code](https://github.com/pablobernabeu/Modality-switch-effects-emerge-early-and-increase-throughout-conceptual-processing/tree/master/Shiny-app)
   

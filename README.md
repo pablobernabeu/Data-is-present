@@ -49,7 +49,7 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 - *Tidy* format
 - *Wide* versus *long* format. For most processes in R, [data needs to be in a tidy, long format](https://r4ds.had.co.nz/tidy-data.html).
 
-<p align = 'center'> <a href = 'https://doi.org/10.1371/journal.pbio.3000202.g001'> <img width = '28%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' alt = 'Illustration of wide and tidy data formats, from Postma and Goedhart (2019)' /> </a> <p align = 'center' style = 'text-align:center;'> Image from [Postma and Goedhart (2019)](https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
+<p align = 'center'> <a href = 'https://doi.org/10.1371/journal.pbio.3000202.g001'> <img width = '28%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' alt = 'Illustration of wide and tidy data formats, from Postma and Goedhart (2019)' /> </a> <p align = 'center' style = 'text-align:center;'> Illustration from [Postma and Goedhart (2019)](https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
 
 - [Combining data sets](https://psyteachr.github.io/msc-data-skills/joins.html#joins)
 - [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/)

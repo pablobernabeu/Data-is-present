@@ -46,9 +46,10 @@ This workshop can serve as an introduction to R or a revision. It demonstrates w
 - [Data structures](http://adv-r.had.co.nz/Data-structures.html)
 - [Packages](http://www.sthda.com/english/wiki/installing-and-using-r-packages): general-purpose examples (e.g., [tidyverse](https://www.tidyverse.org/)) and more specific ones (e.g., for [statistics](https://cran.r-project.org/web/packages/lsr/lsr.pdf) or [geography](https://cran.r-project.org/web/packages/GEOmap/GEOmap.pdf))
 - [Loading and writing data, in native and foreign formats](https://cran.r-project.org/web/packages/rio/vignettes/rio.html)
-- *Wide* format (also dubbed 'untidy') versus *tidy* format (also dubbed 'long' or 'narrow'). For most processes in R, [data needs to be in a tidy format](https://r4ds.had.co.nz/tidy-data.html).
+- *Tidy* format
+- *Wide* versus *long* format. For most processes in R, [data needs to be in a tidy, long format](https://r4ds.had.co.nz/tidy-data.html).
 
-<p align = 'center'> <a href = 'https://doi.org/10.1371/journal.pbio.3000202.g001'> <img width = '25%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' alt = 'Illustration of wide and tidy data formats, from Postma and Goedhart (2019)' /> </a> <p align = 'center' style = 'text-align:center;'> Image from Postma and Goedhart (2019; https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
+<p align = 'center'> <a href = 'https://doi.org/10.1371/journal.pbio.3000202.g001'> <img width = '28%' src = 'https://journals.plos.org/plosbiology/article/file?id=10.1371/journal.pbio.3000202.g001&type=large' alt = 'Illustration of wide and tidy data formats, from Postma and Goedhart (2019)' /> </a> <p align = 'center' style = 'text-align:center;'> Image from [Postma and Goedhart (2019)](https://doi.org/10.1371/journal.pbio.3000202.g001). </p> </p>
 
 - [Combining data sets](https://psyteachr.github.io/msc-data-skills/joins.html#joins)
 - [Data summaries](http://www.cookbook-r.com/Manipulating_data/Summarizing_data/)
